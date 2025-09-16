@@ -21,38 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250916193217 +0000" stop="20250916201653 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Inside Pro Surfing</title>
-    <sub-title lang="en">WSL Surf Abu Dhabi Pro</sub-title>
-    <desc lang="en">As the 2025 WSL Championship Tour heads to the Middle East for the Surf Abu Dhabi Pro, come backstage for a closer look at the action in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:1fd62542-4bd8-4abf-984f-080c5e5d7fdc/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/inside-pro-surfing-2025-e2</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:ba3a54cb-4499-4940-b5dc-2458a9227461</episode-num>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-    <episode-num system="original-air-date">2025-04-02 05:21:20</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:1fd62542-4bd8-4abf-984f-080c5e5d7fdc</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</series-desc>
-  </programme>
-  <programme start="20250916201653 +0000" stop="20250916210053 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Inside Pro Surfing</title>
-    <sub-title lang="en">WSL Vivo Rio Pro</sub-title>
-    <desc lang="en">Enjoy unmatched access to all of the athletes and backstage action at the 2025 WSL Vivo Rio Pro  in Saquarema, Brazil.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:1fd62542-4bd8-4abf-984f-080c5e5d7fdc/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/inside-pro-surfing-2025-e9</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:da19c6fa-0dad-45ab-9229-d4b3daafb56c</episode-num>
-    <episode-num system="xmltv_ns">0.8.0</episode-num>
-    <episode-num system="original-air-date">2025-09-02 03:44:06</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:1fd62542-4bd8-4abf-984f-080c5e5d7fdc</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Experience the moments that mattered at the 2025 WSL Vivo Rio Pro in Saquarema, Brazil.</series-desc>
-  </programme>
   <programme start="20250916210053 +0000" stop="20250916212719 +0000" channel="mjh-redbull-tv">
     <title lang="en">Premier Padel 2025</title>
     <sub-title lang="en">Tarragona P1 Premier Padel highlights</sub-title>
@@ -440,79 +408,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Watch the Top 16 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</series-desc>
-  </programme>
-  <programme start="20250916200000 +0000" stop="20250916203000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">271419485</episode-num>
-    <episode-num system="freeviewnz.tv">episode/baf6b2f5-8d35-4a75-a3a2-75b1832a1ea9</episode-num>
-    <episode-num system="original-air-date">2025-09-17 08:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250916203000 +0000" stop="20250916210000 +0000" channel="mjh-al-jazeera">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/a4a5c21c-e735-4d8a-b1ee-f0352fd45661/insidestory_showcard.jpg" width="480" height="640"/>
-    <episode-num system="dd_progid">56283345</episode-num>
-    <episode-num system="freeviewnz.tv">episode/b510f16c-b8c9-4f71-ac7f-409217435d6a</episode-num>
-    <episode-num system="xmltv_ns">0.1091.0</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2025-09-17 05:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>1/10</value>
-    </star-rating>
-    <series-desc/>
   </programme>
   <programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="mjh-al-jazeera">
     <title>Newshour</title>
@@ -11398,12 +11293,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250916200000 +0000" stop="20250916210000 +0000">
-    <title>Asia Tonight</title>
-    <desc>Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d2f4e4b0bbed8e932737-1632097030074?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250916210000 +0000" stop="20250916220000 +0000">
     <title>Debt Bomb</title>
     <desc>An examination of the impact of debt on countries, with the IMF declaring that 60 percent of low-income countries are either at high risk of debt distress or already in debt</desc>
@@ -11445,29 +11334,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/614328d1e4b051be50a8c90a-1631791337622?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916200000 +0000" stop="20250916203000 +0000">
-    <title>The Context USA</title>
-    <desc>Experts from both sides of the Atlantic examine how US politics, policy and public sentiment shape domestic outcomes and influence global dynamics.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1651720970_0_20250709T173002306Z_88_imageprocessorclient-tvplus-linear-d7c8c765b-sctbz.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916203000 +0000" stop="20250916205500 +0000">
-    <title>The Context USA</title>
-    <desc>Experts from both sides of the Atlantic examine how US politics, policy and public sentiment shape domestic outcomes and influence global dynamics.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1651720970_0_20250709T173002306Z_88_imageprocessorclient-tvplus-linear-d7c8c765b-sctbz.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250916205500 +0000" stop="20250916210000 +0000">
-    <title>The Travel Show</title>
-    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338640_3_20240215T220846384Z_65.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250917080000 +0000" stop="20250917090000 +0000">
+    <title>Insight</title>
+    <desc>An exploration of topical issues that impact Asia and the rest of the world through in-depth investigations and reports.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d438e4b078d6bb788dbc-1632097346900?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250916210000 +0000" stop="20250916213000 +0000">
     <title>BBC World News America</title>
@@ -11533,22 +11404,29 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916200000 +0000" stop="20250916203000 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917013000 +0000" stop="20250917014500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916203000 +0000" stop="20250916210000 +0000">
-    <title>The Day</title>
-    <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917014500 +0000" stop="20250917020000 +0000">
+    <title>BBC Sport</title>
+    <desc>Coverage, commentary highlights and more from the world's biggest sporting events.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1795488270_0_20250804T124638842Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916210000 +0000" stop="20250916210200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917020000 +0000" stop="20250917023000 +0000">
+    <title>Newsday</title>
+    <desc>International news from London and Singapore.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338453_2_20240215T220856973Z_18.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250916210200 +0000" stop="20250916211500 +0000">
     <title>Business Beyond</title>
@@ -11623,5 +11501,16 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <title>DocFilm</title>
     <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917020000 +0000" stop="20250917020200 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917020200 +0000" stop="20250917023000 +0000">
+    <title>The Day</title>
+    <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
 </tv>
