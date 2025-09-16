@@ -21,19 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250916210053 +0000" stop="20250916212719 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Premier Padel 2025</title>
-    <sub-title lang="en">Tarragona P1 Premier Padel highlights</sub-title>
-    <desc lang="en">Watch the action from Tarragona, Spain as the world's best padel players tackle the P1 Premier Padel.</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:f8fa449d-dc3a-4356-a76f-ab520c20c9d3/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/premier-padel-2025-spain-p1-highlights</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:f8fa449d-dc3a-4356-a76f-ab520c20c9d3</episode-num>
-    <episode-num system="original-air-date">2025-09-02 11:00:53</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Watch the highlights from Tarragona, Spain as the P1 Premier Padel took centre stage. </series-desc>
-  </programme>
   <programme start="20250916212719 +0000" stop="20250916222118 +0000" channel="mjh-redbull-tv">
     <title lang="en">Ice Waterfalls</title>
     <sub-title lang="en">Kayaking off the world's highest ice waterfall</sub-title>
@@ -408,40 +395,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Watch the Top 16 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</series-desc>
-  </programme>
-  <programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="mjh-al-jazeera">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/n2ENKd1fKB1v12c9rCwFpjMz3mr.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">271419487</episode-num>
-    <episode-num system="freeviewnz.tv">episode/fe2c8fa0-2729-4808-9f90-aab393d2322b</episode-num>
-    <episode-num system="original-air-date">2025-09-17 09:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
   </programme>
   <programme start="20250916220000 +0000" stop="20250916223000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -11293,12 +11246,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250916210000 +0000" stop="20250916220000 +0000">
-    <title>Debt Bomb</title>
-    <desc>An examination of the impact of debt on countries, with the IMF declaring that 60 percent of low-income countries are either at high risk of debt distress or already in debt</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/65307d2be4b035367f0b685b-1697676603794?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250916220000 +0000" stop="20250916230000 +0000">
     <title>Singapore Tonight</title>
     <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
@@ -11340,21 +11287,17 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d438e4b078d6bb788dbc-1632097346900?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916210000 +0000" stop="20250916213000 +0000">
-    <title>BBC World News America</title>
-    <desc>The hosts shed light on political, economic and social issues in the United States and other notable events across the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338443_2_20240215T220856974Z_85.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250917090000 +0000" stop="20250917090200 +0000">
+    <title>Headline News</title>
+    <desc>An update on news from the local area and around the globe to help keep people informed about what's happening.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cde5e4b078d6bb788db5-1632095728940?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916213000 +0000" stop="20250916220000 +0000">
-    <title>Newsnight</title>
-    <desc>Comprehensive coverage of today's important national and international news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_542341035_0_20240525T003547729Z_93.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250917090200 +0000" stop="20250917100000 +0000">
+    <title>Metropolis</title>
+    <desc>Explores the urban life in the ancient Mediterranean area, where metropolises emerged out of a scattering of settlements.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/62c4d341e4b00d8f62bcc4f9-1657066307172?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250916220000 +0000" stop="20250916230000 +0000">
     <title>BBC World News America</title>
@@ -11428,26 +11371,29 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916210200 +0000" stop="20250916211500 +0000">
-    <title>Business Beyond</title>
-    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564930907_0_20250109T021603081Z_73_imageprocessorclient-tvplus-linear-7cd5d896cc-sbnsg.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917023000 +0000" stop="20250917024500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916211500 +0000" stop="20250916214500 +0000">
-    <title>Close up</title>
-    <desc>The weekly half-hour program delivers indepth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, Close up is informative, gripping and visually powerful.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886950_0_20241126T122304995Z_43_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917024500 +0000" stop="20250917030000 +0000">
+    <title>BBC Sport</title>
+    <desc>Coverage, commentary highlights and more from the world's biggest sporting events.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1795488270_0_20250804T124638842Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916214500 +0000" stop="20250916220000 +0000">
-    <title>Shift</title>
-    <desc>How is the Internet changing society – in Germany and around the world? The magazine for digital culture, issues and technology, delivered directly from blogs and boardrooms.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886807_0_20241126T122257433Z_74_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
-  </programme>
-  <programme channel="mjh-dw-news" start="20250916220000 +0000" stop="20250916220200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917030000 +0000" stop="20250917033000 +0000">
+    <title>Newsday</title>
+    <desc>International news from London and Singapore.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338453_2_20240215T220856973Z_18.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250916220200 +0000" stop="20250916223000 +0000">
     <title>The Day</title>
@@ -11512,5 +11458,16 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <title>The Day</title>
     <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917023000 +0000" stop="20250917030000 +0000">
+    <title>Global Us</title>
+    <desc>There are eight billion of us on Earth. And we're interconnected like never before. How are we harnessing our powers of communication? Global Us scrutinizes, inspires and offers perspectives for a complex global society.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886817_0_20241126T122304737Z_22_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917030000 +0000" stop="20250917031500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
   </programme>
 </tv>
