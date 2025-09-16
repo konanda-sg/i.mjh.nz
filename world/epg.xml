@@ -21,34 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250916212719 +0000" stop="20250916222118 +0000" channel="mjh-redbull-tv">
-    <title lang="en">Ice Waterfalls</title>
-    <sub-title lang="en">Kayaking off the world's highest ice waterfall</sub-title>
-    <desc lang="en">Catalan adventurer and elite kayaker Aniol Serrasolses shatters boundaries on his Arctic expedition to Norway when he descends a 20m-high ice waterfall - the largest ever recorded kayak drop from a glacial waterfall.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://resources.redbull.tv/rrn:content:films:e4eeed73-69cd-40ae-814a-2178d87ea078/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/films/ice-waterfalls</url>
-    <episode-num system="redbull.com">episode/rrn:content:films:e4eeed73-69cd-40ae-814a-2178d87ea078</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</series-desc>
-  </programme>
-  <programme start="20250916222118 +0000" stop="20250916224754 +0000" channel="mjh-redbull-tv">
-    <title lang="en">For Reals</title>
-    <sub-title lang="en">From skydiving with skis to flying into a volcano</sub-title>
-    <desc lang="en">Flying a plane 245kph through a tunnel. A wingsuit flight across the crater of an active volcano. A record-breaking truck jump in a ghost town. It's all in a day's work for Red Bull athletes!</desc>
-    <icon src="https://resources.redbull.tv/rrn:content:shows:28251908-2cc8-489f-9bb6-9b563abaa72d/rbtv_cover_art_portrait"/>
-    <url>https://www.redbull.com/int-en/episodes/for-reals-s1-e4</url>
-    <episode-num system="redbull.com">episode/rrn:content:episode-videos:f2cb2ce7-09e1-4656-a37f-a10c80b56502</episode-num>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-    <episode-num system="original-air-date">2024-10-21 00:13:28</episode-num>
-    <episode-num system="redbull.com">show/rrn:content:shows:28251908-2cc8-489f-9bb6-9b563abaa72d</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </series-desc>
-  </programme>
   <programme start="20250916224754 +0000" stop="20250916231354 +0000" channel="mjh-redbull-tv">
     <title lang="en">For Reals</title>
     <sub-title lang="en">From a paper plane contest to diving off ruins </sub-title>
@@ -395,71 +367,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Watch the Top 16 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</series-desc>
-  </programme>
-  <programme start="20250916220000 +0000" stop="20250916223000 +0000" channel="mjh-al-jazeera">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Up-to-date news and analysis from around the world.</desc>
-    <date>2025</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>Japan</country>
-    <episode-num system="dd_progid">271419488</episode-num>
-    <episode-num system="freeviewnz.tv">episode/975a0dc2-39a9-4d6f-86f7-ca954b092ab5</episode-num>
-    <episode-num system="original-air-date">2025-09-17 10:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/127243</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>A news show hosted by Kiryu Coco in which she summarizes the events of the day before. Coco-Kaichou often pitches products as commercial breaks such as her drug AsaCoco which can be inhaled, injected or consumed as a drink. It is tradition to watch Cocos AsaCoco Live News and afterwards Tsunomaki Watames "Watame no Uta" (early morning karaoke format with viewer rock-paper-scissor).</series-desc>
-    <live/>
-  </programme>
-  <programme start="20250916223000 +0000" stop="20250916230000 +0000" channel="mjh-al-jazeera">
-    <title>Boycott</title>
-    <sub-title>Part One - The Bill</sub-title>
-    <desc>A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
-    <date>2023</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="http://img-store-prod.switch.tv/images/5363af89-dc75-44ac-bf32-90b5ab50a3bc/Boycott_6_1695381037104_3.jpg" width="480" height="720"/>
-    <episode-num system="dd_progid">50484683</episode-num>
-    <episode-num system="freeviewnz.tv">episode/1899a9e2-895a-42fa-989b-b2e79ec69aac</episode-num>
-    <episode-num system="dd_seriesid">50484682</episode-num>
-    <episode-num system="freeviewnz.tv">season/64ff4153-e90d-4f70-a01c-910244efb79e</episode-num>
-    <episode-num system="freeviewnz.tv">show/1449cf84-464d-4221-8241-bed126b5564e</episode-num>
-    <episode-num system="original-air-date">2023-09-27 22:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20250916230000 +0000" stop="20250916233000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -11246,12 +11153,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250916220000 +0000" stop="20250916230000 +0000">
-    <title>Singapore Tonight</title>
-    <desc>Providing people a round-up of all the day's events in Singapore, while also covering the breaking news.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147cd1fe4b028d3ad594396-1632544919474?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250916230000 +0000" stop="20250917020000 +0000">
     <title>Asia First</title>
     <desc>Top stories, market updates, and business intel from across the region to prepare Asia for the day ahead.</desc>
@@ -11299,13 +11200,11 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/62c4d341e4b00d8f62bcc4f9-1657066307172?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250916220000 +0000" stop="20250916230000 +0000">
-    <title>BBC World News America</title>
-    <desc>The hosts shed light on political, economic and social issues in the United States and other notable events across the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338443_2_20240215T220856974Z_85.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title>Asia Tonight</title>
+    <desc>Views, current affairs and headlining news from around the region, with a unique Asian perspective and expertise.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d2f4e4b0bbed8e932737-1632097030074?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250916230000 +0000" stop="20250916233000 +0000">
     <title>BBC News</title>
@@ -11395,15 +11294,29 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916220200 +0000" stop="20250916223000 +0000">
-    <title>The Day</title>
-    <desc>In addition to DW's round-the-clock news bulletins The Day provides viewers with the background and analysis they need to understand the top stories of the last 24 hours.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886845_0_20241126T122304742Z_55_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917033000 +0000" stop="20250917034500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250916223000 +0000" stop="20250916230000 +0000">
-    <title>The 77 Percent</title>
-    <desc>77 percent of Africans are younger than 35. These are the people who will shape the continent's future. DW's TV magazine The 77 Percent gives Africa's youth a platform for debate, information and inspiration.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512887004_0_20241126T122304738Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917034500 +0000" stop="20250917040000 +0000">
+    <title>BBC Sport</title>
+    <desc>Coverage, commentary highlights and more from the world's biggest sporting events.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1795488270_0_20250804T124638842Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="mjh-bbc-news" start="20250917040000 +0000" stop="20250917043000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250916230000 +0000" stop="20250916231500 +0000">
     <title>DW</title>
@@ -11465,6 +11378,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886817_0_20241126T122304737Z_22_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
   <programme channel="mjh-dw-news" start="20250917030000 +0000" stop="20250917031500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917031500 +0000" stop="20250917033000 +0000">
+    <title>Business Beyond</title>
+    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564930907_0_20250109T021603081Z_73_imageprocessorclient-tvplus-linear-7cd5d896cc-sbnsg.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917033000 +0000" stop="20250917040000 +0000">
+    <title>Eco Africa</title>
+    <desc>A showcase of environmental ideas from Africa and Europe. Eco Africa explores innovative solutions designed to protect our natural world and invites viewers to share their own projects and initiatives.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886925_0_20241126T122258473Z_43_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917040000 +0000" stop="20250917041500 +0000">
     <title>DW</title>
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
