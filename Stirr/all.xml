@@ -23,13 +23,13 @@
     <display-name>Wild TV: Nonstop Outdoor Action &amp; Adventure</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731450734sR0YMSWnS6-632x395-8NHdzJSa.png"/>
   </channel>
-  <channel id="6637">
-    <display-name>Sooner: Coming of Age</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743027247SdJS4BDKZR-632x395-Yja6NsNE.png"/>
-  </channel>
   <channel id="5309">
     <display-name>Electric Now</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/12/1707778246xXhtikOiSH-632x395-7QYswpcF.jpeg"/>
+  </channel>
+  <channel id="6637">
+    <display-name>Sooner: Coming of Age</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743027247SdJS4BDKZR-632x395-Yja6NsNE.png"/>
   </channel>
   <channel id="6408">
     <display-name>Dark Matters TV</display-name>
@@ -87,21 +87,21 @@
     <display-name>Imagine PlayWorld</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737757569jCf6Kb1V2s-632x395-d5jixmcy.png"/>
   </channel>
-  <channel id="5288">
-    <display-name>OAN plus</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707417941sC3CsSFe4t-632x395-av3fl5D7.png"/>
-  </channel>
   <channel id="7305">
     <display-name>Yachting tv</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751336099mWZp1KWVT7-632x395-u5b1od4y.png"/>
   </channel>
-  <channel id="6921">
-    <display-name>USA Today</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/07/1746577448QWkEIwQinU-632x395-DCFOtDQe.png"/>
+  <channel id="5288">
+    <display-name>OAN plus</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707417941sC3CsSFe4t-632x395-av3fl5D7.png"/>
   </channel>
   <channel id="7271">
     <display-name>Salem News Channel</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/30/17513045433QRNuo2M3W-632x395-iaU9RyeO.jpeg"/>
+  </channel>
+  <channel id="6921">
+    <display-name>USA Today</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/07/1746577448QWkEIwQinU-632x395-DCFOtDQe.png"/>
   </channel>
   <channel id="6759">
     <display-name>DeFiance Media</display-name>
@@ -155,13 +155,13 @@
     <display-name>TRACE Sportstar</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722921577SuDgpp1pUP-632x395-QRJ45Bra.png"/>
   </channel>
-  <channel id="7303">
-    <display-name>Horizon Sports</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513357175MrIgSh6q9-632x395-jrxy1CdQ.png"/>
-  </channel>
   <channel id="5721">
     <display-name>Automotions</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-632x395-VgAXiSlR.jpeg"/>
+  </channel>
+  <channel id="7303">
+    <display-name>Horizon Sports</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513357175MrIgSh6q9-632x395-jrxy1CdQ.png"/>
   </channel>
   <channel id="6411">
     <display-name>Fuel TV</display-name>
@@ -175,6 +175,10 @@
     <display-name>DRIVE+SPEED</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751328558AyhaPQ1LiV-632x395-EDGyK2eH.png"/>
   </channel>
+  <channel id="1072">
+    <display-name>Channel Fight</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-632x395-QdPPBYUX.jpeg"/>
+  </channel>
   <channel id="7307">
     <display-name>Powertube TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751336626fE5Jzb97HN-632x395-8WsGTIEl.png"/>
@@ -183,37 +187,37 @@
     <display-name>Nitro TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-632x395-zNVVdCN6.jpeg"/>
   </channel>
-  <channel id="1072">
-    <display-name>Channel Fight</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-632x395-QdPPBYUX.jpeg"/>
+  <channel id="7301">
+    <display-name>Motor Racing</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751335161N0GAOYQhXb-632x395-0EPTyj4u.png"/>
   </channel>
   <channel id="7279">
     <display-name>Fight TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751329122xyk8AVge6b-632x395-EksiPjIi.png"/>
   </channel>
-  <channel id="7301">
-    <display-name>Motor Racing</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751335161N0GAOYQhXb-632x395-0EPTyj4u.png"/>
-  </channel>
-  <channel id="1549">
-    <display-name>Extreme+</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-632x395-HQwMXivD.jpeg"/>
-  </channel>
   <channel id="7273">
     <display-name>MMA TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/06/30/1751326202WBJHDDSd4D-632x395-325fBBzz.png"/>
   </channel>
-  <channel id="5300">
-    <display-name>The Grappling Network</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442456xf6tRG4fFT-632x395-NHj3thH0.png"/>
+  <channel id="7283">
+    <display-name>Goal TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330357iXZkoSrM4n-632x395-HqNW8IE7.png"/>
   </channel>
   <channel id="5887">
     <display-name>Surfing Plus</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-632x395-QsFhxKLr.png"/>
   </channel>
-  <channel id="7283">
-    <display-name>Goal TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330357iXZkoSrM4n-632x395-HqNW8IE7.png"/>
+  <channel id="1549">
+    <display-name>Extreme+</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-632x395-HQwMXivD.jpeg"/>
+  </channel>
+  <channel id="5300">
+    <display-name>The Grappling Network</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442456xf6tRG4fFT-632x395-NHj3thH0.png"/>
+  </channel>
+  <channel id="7281">
+    <display-name>Fooseball TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751329613MhmhWLFwR6-632x395-p0OuTeVt.png"/>
   </channel>
   <channel id="5306">
     <display-name>World Poker Tour</display-name>
@@ -223,41 +227,29 @@
     <display-name>Sports First - Stream Free Now</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-632x395-ONOncvfW.png"/>
   </channel>
-  <channel id="7281">
-    <display-name>Fooseball TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751329613MhmhWLFwR6-632x395-p0OuTeVt.png"/>
+  <channel id="7285">
+    <display-name>Homerun TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330819RCU5vxqXYC-632x395-ChcGUiTp.png"/>
   </channel>
   <channel id="7287">
     <display-name>Hoop TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751331303opJn647Bhy-632x395-y6kX3egV.png"/>
   </channel>
-  <channel id="7285">
-    <display-name>Homerun TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751330819RCU5vxqXYC-632x395-ChcGUiTp.png"/>
-  </channel>
   <channel id="5740">
     <display-name>Ace TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-632x395-maJhgG0t.jpeg"/>
-  </channel>
-  <channel id="5294">
-    <display-name>Cricket Gold</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-632x395-9Ynz4YWu.jpeg"/>
   </channel>
   <channel id="5726">
     <display-name>Nautical Channel</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/17126107611l3ZAg8tJ1-632x395-P8YewLrP.png"/>
   </channel>
+  <channel id="5294">
+    <display-name>Cricket Gold</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-632x395-9Ynz4YWu.jpeg"/>
+  </channel>
   <channel id="5747">
     <display-name>Hunt Fish TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-632x395-V8A26P30.png"/>
-  </channel>
-  <channel id="7289">
-    <display-name>Horse TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751331729ulHpeRczFM-632x395-037RbAdf.png"/>
-  </channel>
-  <channel id="5295">
-    <display-name>Equus TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-632x395-PEinLImR.png"/>
   </channel>
   <channel id="5407">
     <display-name>Drone TV</display-name>
@@ -267,6 +259,14 @@
     <display-name>QVC</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/29/1709169525FMZObgSW84-632x395-lDy0lN0u.jpeg"/>
   </channel>
+  <channel id="7289">
+    <display-name>Horse TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/1751331729ulHpeRczFM-632x395-037RbAdf.png"/>
+  </channel>
+  <channel id="5295">
+    <display-name>Equus TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-632x395-PEinLImR.png"/>
+  </channel>
   <channel id="5291">
     <display-name>HSN</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/170743599023pPRmXtWB-632x395-pfsSQfRk.png"/>
@@ -275,13 +275,9 @@
     <display-name>Cigar TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743025853olSvQn6rQh-632x395-A5RUxENZ.png"/>
   </channel>
-  <channel id="6581">
-    <display-name>5-Minute Crafts</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737755649zG7KSo4xYG-632x395-RJ2EhbuI.png"/>
-  </channel>
-  <channel id="5417">
-    <display-name>Shop LC</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/28/17091442539RbHfoa9hA-632x395-rpNigyAp.jpeg"/>
+  <channel id="6413">
+    <display-name>CraftsyTV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/10/1720630616hOs8DCitjP-632x395-1RerLzzI.jpeg"/>
   </channel>
   <channel id="5395">
     <display-name>ONTV4U - Free Live Shopping &amp; Lifestyle TV</display-name>
@@ -291,29 +287,29 @@
     <display-name>AWE plus</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-632x395-hZUZLeO1.png"/>
   </channel>
-  <channel id="6413">
-    <display-name>CraftsyTV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/10/1720630616hOs8DCitjP-632x395-1RerLzzI.jpeg"/>
+  <channel id="5417">
+    <display-name>Shop LC</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/28/17091442539RbHfoa9hA-632x395-rpNigyAp.jpeg"/>
+  </channel>
+  <channel id="5428">
+    <display-name>JLTV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-632x395-SXIeuCM9.png"/>
   </channel>
   <channel id="5299">
     <display-name>Freebie TV - Watch Live Instantly</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442253rVkI5jmfsL-632x395-sJSOSCWM.png"/>
   </channel>
+  <channel id="6581">
+    <display-name>5-Minute Crafts</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737755649zG7KSo4xYG-632x395-RJ2EhbuI.png"/>
+  </channel>
   <channel id="7321">
     <display-name>American Stories Network</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/17577201680v89tI1D3C-632x395-wE532JvH.png"/>
   </channel>
-  <channel id="7291">
-    <display-name>Space Series</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513321722Mytcp0Foz-632x395-PeDesbYO.png"/>
-  </channel>
   <channel id="5739">
     <display-name>Docu Vision</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613230W2oYDwibh5-632x395-ZWwPJEUN.png"/>
-  </channel>
-  <channel id="5428">
-    <display-name>JLTV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-632x395-SXIeuCM9.png"/>
   </channel>
   <channel id="5302">
     <display-name>Humor Mill TV</display-name>
@@ -323,17 +319,21 @@
     <display-name>Popstar! TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/19/1710878507YBl20Hfw1j-632x395-nYcv7lAo.jpeg"/>
   </channel>
+  <channel id="7291">
+    <display-name>Space Series</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513321722Mytcp0Foz-632x395-PeDesbYO.png"/>
+  </channel>
   <channel id="5745">
     <display-name>Cowboy Movie Channel</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-632x395-XDAKvIe3.jpeg"/>
   </channel>
-  <channel id="7299">
-    <display-name> AbsintheTV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513347374BoKLSMGOD-632x395-a7v3hA2k.png"/>
-  </channel>
   <channel id="5441">
     <display-name>TBN</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711049863a020ieNKak-632x395-IXcywtoj.png"/>
+  </channel>
+  <channel id="7299">
+    <display-name> AbsintheTV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/01/17513347374BoKLSMGOD-632x395-a7v3hA2k.png"/>
   </channel>
   <channel id="5308">
     <display-name>Zoomer TV</display-name>
@@ -343,13 +343,17 @@
     <display-name>Feva TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442110xv8oh5GFbt-632x395-4lXXfLjD.png"/>
   </channel>
-  <channel id="5752">
-    <display-name>MERCURY+</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-632x395-K7fTcJUB.jpeg"/>
-  </channel>
   <channel id="7309">
     <display-name>Elevation Church</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/07/07/1751907048d9noF7Ikgk-632x395-CbvTWStx.png"/>
+  </channel>
+  <channel id="5273">
+    <display-name>CrimeFlix - Free Crime TV That’ll Keep You Hooked</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-632x395-jOa89KLb.jpeg"/>
+  </channel>
+  <channel id="5752">
+    <display-name>MERCURY+</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-632x395-K7fTcJUB.jpeg"/>
   </channel>
   <channel id="6641">
     <display-name>Mi Raza Canal</display-name>
@@ -359,9 +363,13 @@
     <display-name>Mi Raza Canal Plus</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743028543DGdNGBXCOU-632x395-72fuEGzc.png"/>
   </channel>
-  <channel id="5273">
-    <display-name>CrimeFlix - Free Crime TV That’ll Keep You Hooked</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-632x395-jOa89KLb.jpeg"/>
+  <channel id="3353">
+    <display-name>Omstars</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-632x395-ky67vZ9g.jpg"/>
+  </channel>
+  <channel id="7319">
+    <display-name>H20 TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/1757717025Y40fNuhsRW-632x395-TCqFnYIw.png"/>
   </channel>
   <channel id="5408">
     <display-name>RVTV</display-name>
@@ -370,14 +378,6 @@
   <channel id="7047">
     <display-name>INTRAVEL</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/20/17477078184RXzq0eKZD-632x395-EqTlmjkv.png"/>
-  </channel>
-  <channel id="7319">
-    <display-name>H20 TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/09/12/1757717025Y40fNuhsRW-632x395-TCqFnYIw.png"/>
-  </channel>
-  <channel id="3353">
-    <display-name>Omstars</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-632x395-ky67vZ9g.jpg"/>
   </channel>
   <channel id="5734">
     <display-name>4K Travel TV</display-name>
@@ -391,13 +391,13 @@
     <display-name>Gotraveler</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-632x395-LMeNMg3D.jpeg"/>
   </channel>
-  <channel id="6426">
-    <display-name>TRACE Urban</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png"/>
-  </channel>
   <channel id="6428">
     <display-name>TRACE Latina</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722923469cnrsK9Xfs6-632x395-E67w4Tmm.png"/>
+  </channel>
+  <channel id="6426">
+    <display-name>TRACE Urban</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png"/>
   </channel>
   <channel id="6429">
     <display-name>TRACE Brazuca </display-name>
@@ -411,25 +411,25 @@
     <display-name>Feva Music</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-632x395-XmxiWRiq.png"/>
   </channel>
-  <channel id="5303">
-    <display-name>Plymouth Rock TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446072tnQEMOWsB1-632x395-BSCLLPqL.png"/>
-  </channel>
   <channel id="6635">
     <display-name>Playing for Change</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/03/26/1743026747YVQREBXDZN-632x395-IkvXcQki.png"/>
+  </channel>
+  <channel id="5303">
+    <display-name>Plymouth Rock TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446072tnQEMOWsB1-632x395-BSCLLPqL.png"/>
   </channel>
   <channel id="5290">
     <display-name>The Big Dish Channel</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707435560ZF3REwypLC-632x395-hElGpCWY.png"/>
   </channel>
-  <channel id="6467">
-    <display-name>News 9 - KWTV - (Oklahoma City, OK)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735347204uXyZ7OilgD-632x395-rPhp17V6.png"/>
-  </channel>
   <channel id="6465">
     <display-name>News On 6 - KOTV - (Tulsa, OK)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735346053aXseJNRkyO-632x395-tKsSzWMJ.png"/>
+  </channel>
+  <channel id="6467">
+    <display-name>News 9 - KWTV - (Oklahoma City, OK)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735347204uXyZ7OilgD-632x395-rPhp17V6.png"/>
   </channel>
   <channel id="6469">
     <display-name>ABC 5 - KSTP - (Minneapolis-St. Paul, MN)</display-name>
@@ -479,13 +479,13 @@
     <display-name>News 4 - WOAI - (San Antonio, TX*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350901v6qBQHDl08-632x395-wB3DpRv6.png"/>
   </channel>
-  <channel id="6497">
-    <display-name>CBS Austin - KEYE - (Austin, TX*)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350953FSs2yv1VEZ-632x395-SHHVMC7p.png"/>
-  </channel>
   <channel id="6495">
     <display-name>ABC 6 - WSYX - (Columbus, OH*)	</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/173535093138B9YWdEbG-632x395-vIlpEfsn.png"/>
+  </channel>
+  <channel id="6497">
+    <display-name>CBS Austin - KEYE - (Austin, TX*)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350953FSs2yv1VEZ-632x395-SHHVMC7p.png"/>
   </channel>
   <channel id="6499">
     <display-name>Local 12 - WKRC - (Cincinnati, OH*)</display-name>
@@ -515,83 +515,59 @@
     <display-name>Fox 25 - KOKH - (Oklahoma City, OK*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/17353510655ywbSea9hO-632x395-T3tmNo1K.png"/>
   </channel>
-  <channel id="6515">
-    <display-name>Fox 26 - KMPH - (Fresno, CA*)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351112xiLYWSNX3B-632x395-pgnvHWLn.png"/>
-  </channel>
   <channel id="6513">
     <display-name>10 NBC WJAR - (Providence, RI*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351091BkRmYuNTOi-632x395-Xc06SyPK.png"/>
   </channel>
-  <channel id="6519">
-    <display-name>FOX 11 - WLUK - (Green Bay, WI*)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351145DklcPHt7Wf-632x395-xCEmkPLl.png"/>
+  <channel id="6515">
+    <display-name>Fox 26 - KMPH - (Fresno, CA*)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351112xiLYWSNX3B-632x395-pgnvHWLn.png"/>
   </channel>
   <channel id="6517">
     <display-name>NEWS 22 ABC - WKEF - (Dayton, OH*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351129IkejXN948m-632x395-BMF7kOyU.png"/>
   </channel>
-  <channel id="6525">
-    <display-name>WSBT 22 CBS - (South Bend, IN*)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351199gE7WSNvw7G-632x395-MUsuZaLE.png"/>
-  </channel>
-  <channel id="6529">
-    <display-name>6 NEWS NBC - WJAC - (Johnstown, PA*)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351230vuknqvMLXw-632x395-YHHIlhQk.png"/>
-  </channel>
-  <channel id="6523">
-    <display-name>CBS 4 News - KDBC - (El Paso, TX*)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351176pv0jJkHwNT-632x395-6aFUJ4Fz.png"/>
+  <channel id="6519">
+    <display-name>FOX 11 - WLUK - (Green Bay, WI*)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351145DklcPHt7Wf-632x395-xCEmkPLl.png"/>
   </channel>
   <channel id="6521">
     <display-name>ABC NEWS 4 - WCIV - (Charleston, SC*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351161CnNQEpdAHI-632x395-vMvnEZDx.png"/>
   </channel>
+  <channel id="6525">
+    <display-name>WSBT 22 CBS - (South Bend, IN*)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351199gE7WSNvw7G-632x395-MUsuZaLE.png"/>
+  </channel>
+  <channel id="6523">
+    <display-name>CBS 4 News - KDBC - (El Paso, TX*)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351176pv0jJkHwNT-632x395-6aFUJ4Fz.png"/>
+  </channel>
   <channel id="6527">
     <display-name>WPDE 15 ABC - (Myrtle Beach, FL*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351215Lc5V1zk4sG-632x395-SfXNbAcY.png"/>
   </channel>
-  <channel id="5293">
-    <display-name>Adventure Sports TV (Died)</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-632x395-Esv4IcOe.png"/>
-  </channel>
-  <channel id="7053">
-    <display-name>FOX 11 - WLUK - (Green Bay, WI*) #2</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/23/1747960036MVufANiDnv-632x395-W11I1mNX.png"/>
+  <channel id="6529">
+    <display-name>6 NEWS NBC - WJAC - (Johnstown, PA*)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351230vuknqvMLXw-632x395-YHHIlhQk.png"/>
   </channel>
   <channel id="6531">
     <display-name>FOX 9 - WTOV - (Steubenville, OH*)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351253ntM1zUqR3r-632x395-j1dMNj5H.png"/>
   </channel>
+  <channel id="7053">
+    <display-name>FOX 11 - WLUK - (Green Bay, WI*) #2</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/05/23/1747960036MVufANiDnv-632x395-W11I1mNX.png"/>
+  </channel>
+  <channel id="5293">
+    <display-name>Adventure Sports TV (Died)</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-632x395-Esv4IcOe.png"/>
+  </channel>
   <channel id="6535">
     <display-name>KSL-TV -5 - (Salt Lake City, UT)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/04/1735953238nK14oLpbaK-632x395-hPAmddYL.png"/>
   </channel>
-  <programme channel="stub" start="20250917152418 +1200" stop="20250917152418 +1200"/>
-  <programme channel="6439" start="20250916024728 +0000" stop="20250916031728 +0000">
-    <title>Mountains of Ducks</title>
-    <desc>In scenic Idaho with a mountainous backdrop, the Higdon Crew fInds flock after flock of ducks and even a goose or two!</desc>
-  </programme>
-  <programme channel="6439" start="20250916031728 +0000" stop="20250916034714 +0000">
-    <title>Great Lakes Region</title>
-    <desc>Bryan hits the road and heads to Michigan to trap with J3 outdoors and Tom Miranda.</desc>
-  </programme>
-  <programme channel="6439" start="20250916034714 +0000" stop="20250916041730 +0000">
-    <title>Down In the Bayou</title>
-    <desc>Bryan heads to Louisiana to trap the crawfish ponds.</desc>
-  </programme>
-  <programme channel="6439" start="20250916041730 +0000" stop="20250916044716 +0000">
-    <title>Stories from the Line</title>
-    <desc>The Fur life crew reminisce about the year they had, including fisher hunting in New Hampshire over dogs with an Umarex Airgun.</desc>
-  </programme>
-  <programme channel="6439" start="20250916044716 +0000" stop="20250916051745 +0000">
-    <title>A Duck and Geese Hunt Opener</title>
-    <desc>In this episode Claudio gets to hunt Ducks and big Canada Geese. It ended well but could have been a lot worse</desc>
-  </programme>
-  <programme channel="6439" start="20250916051745 +0000" stop="20250916054716 +0000">
-    <title>Early Season Panfish</title>
-    <desc>Tyler and Sara hit the ice early in a brand-new season of SJTV and breakdown how locate and catch weed edge dwelling panfish.</desc>
-  </programme>
+  <programme channel="stub" start="20250917182147 +1200" stop="20250917182147 +1200"/>
   <programme channel="6439" start="20250916054716 +0000" stop="20250916061718 +0000">
     <title>Foolin' Walleyes</title>
     <desc>We head north to Tamarack Island on LOTW in search of roaming walleyes under the ice.  Covering water with the Finicky Fooler is huge when fish are scattered.</desc>
@@ -1001,42 +977,6 @@
     <title>The Young Riders</title>
     <desc>Jimmy is hot on the trail of a killer that he has personal reasons for taking down. Jesse decides to tag along. Meanwhile, back at the station, the other riders are upset with Cody about a published story he wrote about them.</desc>
   </programme>
-  <programme channel="7061" start="20250915233946 +0000" stop="20250916050442 +0000">
-    <title>Wild Nature - Episode 1</title>
-    <desc>Wild Nature - Episode 1</desc>
-  </programme>
-  <programme channel="6589" start="20250916025500 +0000" stop="20250916032600 +0000">
-    <title>TeenVee</title>
-    <desc>The first relationship is hard, but very cool! You learn to love together, accept each other's demons, face your love problems together and solve them together.  Today we'll show funny relationship situations that will make you smile.</desc>
-  </programme>
-  <programme channel="6589" start="20250916032600 +0000" stop="20250916035300 +0000">
-    <title>TeenVee</title>
-    <desc>Cado loves play video games! One day instead to be boring at home Cado became a participant of 8-Bit Game! He must complete all the levels to find a way out and save the beautiful Ava. Will he be able to find the courage to reach the end?</desc>
-  </programme>
-  <programme channel="6589" start="20250916035300 +0000" stop="20250916042600 +0000">
-    <title>TeenVee</title>
-    <desc>Teenage life is full of surprises. Boom and you fall in love It happened to the cute zombie Creepy and the sullen unicorn Dark</desc>
-  </programme>
-  <programme channel="6589" start="20250916042600 +0000" stop="20250916045900 +0000">
-    <title>TeenVee</title>
-    <desc>Meet Light and Dark , twin unicorns with a special ability to turn their drawings into reality! What kind of funny situations will they get into during school?</desc>
-  </programme>
-  <programme channel="6589" start="20250916045900 +0000" stop="20250916052700 +0000">
-    <title>TeenVee</title>
-    <desc>Be in couple is hard, but very cool! You learn to love together, accept each other's demons, face your love problems together and solve them together. That is why it is so difficult to decide who your true soulmate is.</desc>
-  </programme>
-  <programme channel="6589" start="20250916052700 +0000" stop="20250916060000 +0000">
-    <title>TeenVee</title>
-    <desc>Everything has two sides: the good side and the bad side! Same goes with eternal long vs short battle. Yeah, long legs are cool, sure! But they can be the source of problems and awkward situations, too! There's no right or wrong here. Just appreciate what you have, long and short are both beautiful You thought that long-legged girls are always doing well? No, they have their own problems too!</desc>
-  </programme>
-  <programme channel="6587" start="20250916030000 +0000" stop="20250916060000 +0000">
-    <title>To Be Announced</title>
-    <desc>Program information is not yet available</desc>
-  </programme>
-  <programme channel="6585" start="20250916010000 +0000" stop="20250916040000 +0000">
-    <title>To Be Announced</title>
-    <desc>Program information is not yet available</desc>
-  </programme>
   <programme channel="6585" start="20250916040000 +0000" stop="20250916070000 +0000">
     <title>To Be Announced</title>
     <desc>Program information is not yet available</desc>
@@ -1044,14 +984,6 @@
   <programme channel="6585" start="20250916070000 +0000" stop="20250916100000 +0000">
     <title>To Be Announced</title>
     <desc>Program information is not yet available</desc>
-  </programme>
-  <programme channel="6441" start="20250916025746 +0000" stop="20250916035745 +0000">
-    <title>Rich Bride Poor Bride - Battle of the Budget</title>
-    <desc>Rich Bride Poor Bride - Battle of the Budget</desc>
-  </programme>
-  <programme channel="6441" start="20250916035745 +0000" stop="20250916045746 +0000">
-    <title>Putting on the Glitz - Rich Groom Poor Groom</title>
-    <desc>Putting on the Glitz - Rich Groom Poor Groom</desc>
   </programme>
   <programme channel="6430" start="42280909175737 +0000" stop="60350909175737 +0000">
     <title>Saneliso</title>
@@ -1087,157 +1019,6 @@ Can he reconnect with his family and gain control of his life?</desc>
   <programme channel="6430" start="68000909175738 +0000" stop="85460909175738 +0000">
     <title>Mystery Match</title>
     <desc>Dating Game Show</desc>
-  </programme>
-  <programme channel="6593" start="20250916030000 +0000" stop="20250916060000 +0000">
-    <title>To Be Announced</title>
-    <desc>Program information is not yet available</desc>
-  </programme>
-  <programme channel="7063" start="20250916030159 +0000" stop="20250916035001 +0000">
-    <title>B-Team El Segundo Podcast: Israel "The Stylebender" Adesanya Part 2</title>
-    <desc>Here in the second half of the El Segundo Podcast episode, we pick back up with
-The B-Team’s Craig Jones as he spends time in New Zealand with UFC
-Middleweight champion Israel “The Style Bender” Adesanya. The boys share
-incredible training stories, talk about some of their toughest match-ups and much more.</desc>
-  </programme>
-  <programme channel="7063" start="20250916035001 +0000" stop="20250916043740 +0000">
-    <title>Cellular Performance Institute Podcast Episode 2 - Rafael Lovato Jr</title>
-    <desc>Scott Nelson and Ed Clay sit down and talk with Jiu Jitsu Legend, Rafael Lovato Jr. They speak about Lovato's successful career as a martial artist, and how he overcame potential career ending injuries.</desc>
-  </programme>
-  <programme channel="5300" start="20250916022437 +0000" stop="20250916042226 +0000">
-    <title>College Wrestling - 2023 NWCA Finals - D2 - St. Cloud vs Central Oklahoma</title>
-    <desc>College Wrestling - 2023 NWCA Finals - D2 - St. Cloud vs Central Oklahoma</desc>
-  </programme>
-  <programme channel="5306" start="20250916024702 +0000" stop="20250916043027 +0000">
-    <title>WPT Alpha8 for One Drop at Wynn Las Vegas - Part 1</title>
-    <desc>The final 6 players compete for $111,000 in World Poker Tour (WPT) #Alpha8 at Wynn Las Vegas!</desc>
-  </programme>
-  <programme channel="5294" start="20250916024004 +0000" stop="20250916033034 +0000">
-    <title>1996/97 World Series Cup - Match 10 - Australia v West Indies</title>
-    <desc>1996/97 World Series Cup - Match 10 - Australia v West Indies</desc>
-  </programme>
-  <programme channel="5294" start="20250916033034 +0000" stop="20250916042234 +0000">
-    <title>1996/97 World Series Cup - Match 12 - Australia v Pakistan</title>
-    <desc>1996/97 World Series Cup - Match 12 - Australia v Pakistan</desc>
-  </programme>
-  <programme channel="5294" start="20250916042234 +0000" stop="20250916051134 +0000">
-    <title>1996/97 World Series Cup - Match 13 - Pakistan v West Indies</title>
-    <desc>1996/97 World Series Cup - Match 13 - Pakistan v West Indies</desc>
-  </programme>
-  <programme channel="5294" start="20250916051134 +0000" stop="20250916060434 +0000">
-    <title>1996/97 World Series Cup - Match 14 - Pakistan v West Indies</title>
-    <desc>1996/97 World Series Cup - Match 14 - Pakistan v West Indies</desc>
-  </programme>
-  <programme channel="5294" start="20250916060434 +0000" stop="20250916090434 +0000">
-    <title>Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250916090434 +0000" stop="20250916120401 +0000">
-    <title>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250916120401 +0000" stop="20250916150401 +0000">
-    <title>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250916150401 +0000" stop="20250916180401 +0000">
-    <title>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</title>
-    <desc>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250916180401 +0000" stop="20250916210401 +0000">
-    <title>Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250916210401 +0000" stop="20250917000401 +0000">
-    <title>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250917000401 +0000" stop="20250917030401 +0000">
-    <title>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</title>
-    <desc>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250917030401 +0000" stop="20250917050349 +0000">
-    <title>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250917050349 +0000" stop="20250917072544 +0000">
-    <title>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250917072544 +0000" stop="20250917092544 +0000">
-    <title>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250917092544 +0000" stop="20250917112544 +0000">
-    <title>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250917112544 +0000" stop="20250917142544 +0000">
-    <title>Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250917142544 +0000" stop="20250917172511 +0000">
-    <title>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250917172511 +0000" stop="20250917202511 +0000">
-    <title>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250917202511 +0000" stop="20250917232511 +0000">
-    <title>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</title>
-    <desc>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250917232511 +0000" stop="20250918022511 +0000">
-    <title>Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250918022511 +0000" stop="20250918052511 +0000">
-    <title>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
-    <desc>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250918052511 +0000" stop="20250918082511 +0000">
-    <title>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</title>
-    <desc>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</desc>
-  </programme>
-  <programme channel="5294" start="20250918082511 +0000" stop="20250918102458 +0000">
-    <title>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250918102458 +0000" stop="20250918124654 +0000">
-    <title>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250918124654 +0000" stop="20250918144654 +0000">
-    <title>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5294" start="20250918144654 +0000" stop="20250918164654 +0000">
-    <title>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
-    <desc>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
-  </programme>
-  <programme channel="5726" start="20250916030000 +0000" stop="20250916033000 +0000">
-    <title>Les Voiles de Saint Tropez  - Episode 2 - Meeting and Sailing at Les Voiles De St Tropez</title>
-    <desc>Marking the end of the Mediterranean yachting season, Les Voiles de Saint Tropez will be back for its 20th edition. Close to 4,000 sailors and more than 300 sailing yachts will gather in St Tropez in early autumn for an action-packed programme of competitive racing and lively social events.</desc>
-  </programme>
-  <programme channel="5726" start="20250916033000 +0000" stop="20250916040000 +0000">
-    <title>H2O Racing: Aquabike World Championship - Episode 3 Olbia, ITALY</title>
-    <desc>With 150 competitors from over 30 countries, the UIM ABP Tour is ready for another weekend of non-stop action with the elite riders, joined by new riders competing in the single events of the UIM ABP Aquabike World Championship. In this episode, we are ready to see all the ski action in the Grand Prix of Italy taking place in Olbia.Come join us in this beautiful holiday destination that attracted international riders for the world champion title.</desc>
-  </programme>
-  <programme channel="5726" start="20250916040000 +0000" stop="20250916042500 +0000">
-    <title>Discovering Halki</title>
-    <desc>In the south-eastern corner of the Aegean, west of Rhodes, there is a cosy island, a truly untouched gem of the Dodecanese. It’s a realm of rock and absolute peace; an island with great nautical tradition and proud islanders with an innate warmth.If you are looking for a hidden paradise on earth, then you have found the right place. Greece is home to a small island called Halki. Majestic and mystical; ethereal; elegant yet unpolished; and truly authentic.In this episode, we will visit Halki’s capital, Emborio and we will explore, with captain George, all the natural hidden treasures of the island.We are set to discover deep caves, bask on Trahia and Kania beach, and explore Alimia islet. We will visit an abandoned village, learning more about its rich history, and scuba dive down to the sea floor to get closer to a legendary shipwreck.Still untouched by mass tourism, Halki is the perfect destination for relaxing holidays away from the bright lights or for a quick getaway from the island of Rhodes. Watch Discovering Halki to become part of this almost untouched territory that is worth visiting.</desc>
-  </programme>
-  <programme channel="5726" start="20250916043000 +0000" stop="20250916044400 +0000">
-    <title>Brilliant Corners Jamaica</title>
-    <desc>The Caribbean is filled with places where tourism is rare or close to non-existent. However, there is so much potential for cultural and water sports tourism, they are called Brilliant corners. Nautical Channel is on a mission to explore the brilliant corners of the Caribbean.Going from Haiti all the way to Jamaica or Barbados, we will dive into these brilliant corners, many of them with no tourism at all. With a sustainable tourism approach, get ready to live a fully local experience on Brilliant Corners Jamaica while we practice water sports, taste the traditional local dishes and talk with the habitants of the area.On this occasion, we venture into Jamaica: the third-largest island of the Greater Antilles and Caribbean, home to famous personalities like Bob Marley or Usain Bolt. Through extreme surf travel and consequent writing and aestheticized by jazz, Sam Bleakley gives a voice to the brilliant corners of this country, revealing the character of the place by getting inside the mind of a coastline as much as people.Immerse yourself in the beauty of the yet to discover areas of the Caribbean, available on Nautical Channel.</desc>
-  </programme>
-  <programme channel="5726" start="20250916050000 +0000" stop="20250916052600 +0000">
-    <title>Flavours of Venice - Episode 3</title>
-    <desc>We have approached the end of the series, and in this final episode Andi will be experiencing the art of glass blowing on the island of Murano. Then, she will enjoy a vegan meal prepared on board that has been paired with coffee instead of wine. Let's dive into the flavours of Venice! </desc>
-  </programme>
-  <programme channel="5726" start="20250916053000 +0000" stop="20250916055100 +0000">
-    <title>Moana Waiwai</title>
-    <desc>Moana Waiwai follows the Free Swim journey of wahine (woman) Ally Davey as she takes on 70km of open ocean around the stunning Coromandel coastline to bring awareness to the protection of New Zealand’s oceans.For over three days it does more than encapsulate stunning panoramas on the extraordinary scenario of New Zealand. It is also inspiring for people as we become aware of the natural beauty of the ocean so we can protect it before it is too late.This is an inspirational film, not an activist propaganda, that highlights exploration and the intrinsic benefits of getting wet and looking below the surface. In Moana Waiwai Ally Davey will champion endurance of her human spirit in this seemingly impossible task to achieve a higher goal: protection of the oceans.Be part of her adventure on Nautical Channel.</desc>
   </programme>
   <programme channel="5726" start="20250916060000 +0000" stop="20250916063000 +0000">
     <title>Kite Masters - Episode 1</title>
@@ -9199,21 +8980,93 @@ incredible training stories, talk about some of their toughest match-ups and muc
     <title>International Canoe Federation World Cup - Slalom 2 World Cup Bratislava</title>
     <desc>Welcome to Bratislava, in Slovakia, for round two of the 2019 ICF Canoe Slalom World Cup. Mallory Franklin, Kimberley Woods and Jessica Fox were the top three in Lee Valley last weekend, however Mallory Franklin and Kimberley Woods will not be racing this weekend while Jessica Fox got eliminated in the semi-final. In the C1 men's the medalists from last weekend will also not be racing here, but there are some big names in the lineup. Let's dive into the action in Bratislava. </desc>
   </programme>
-  <programme channel="7289" start="20250916030000 +0000" stop="20250916040000 +0000">
-    <title>Horse Academy Pro - Chapter 1</title>
-    <desc>We begin this chapter rating and voting the student boxes organization at the stables and learning some tips on how horses should be taken care of in the stables. We will clean our equipment properly before feeding the horses and then we will be receiving Doctor Menegon, the voice for the Italian and International horse-riding competitions and introducing our special guest Rolf-Göran Bengtsson. Tune in on the Episode 2 Chapter 1 of Horse Academy Pro, exclusively on HorseTV!</desc>
+  <programme channel="5294" start="20250916060434 +0000" stop="20250916090434 +0000">
+    <title>Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
   </programme>
-  <programme channel="7289" start="20250916040000 +0000" stop="20250916050000 +0000">
-    <title>UAX Trophy - Ep 1</title>
-    <desc>UAX Trophy - Ep 1</desc>
+  <programme channel="5294" start="20250916090434 +0000" stop="20250916120401 +0000">
+    <title>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</desc>
   </programme>
-  <programme channel="7289" start="20250916050000 +0000" stop="20250916053000 +0000">
-    <title>FEI Ride Show - Episode 1</title>
-    <desc>Welcome to RIDE, a brand-new series from FEI Originals that takes a deeper look into the equestrian world. On this week's episode, we hear from Australian Eventer, Megan Jones, on how her family and her dealt with the bushfire crisis. We also go behind the scenes on the set of the children's horse drama "Mystic" but first of all, we being in Florida to find out more about a very particular equine therapy programme.</desc>
+  <programme channel="5294" start="20250916120401 +0000" stop="20250916150401 +0000">
+    <title>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</desc>
   </programme>
-  <programme channel="7289" start="20250916053000 +0000" stop="20250916060000 +0000">
-    <title>FEI Ride Show - Episode 2</title>
-    <desc>In this episode we find out why Danish Show Jumper Tina Lund decided to move to the UAE. Also, we dive deeper into Florida's blossoming equestrian fitness scene. Daniel Bachmann Andersen will give us an update on his latest career move but before then, we will hear from Indian Eventer Fouaad Mirza about his passion for horses and sport.</desc>
+  <programme channel="5294" start="20250916150401 +0000" stop="20250916180401 +0000">
+    <title>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</title>
+    <desc>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250916180401 +0000" stop="20250916210401 +0000">
+    <title>Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250916210401 +0000" stop="20250917000401 +0000">
+    <title>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250917000401 +0000" stop="20250917030401 +0000">
+    <title>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</title>
+    <desc>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250917030401 +0000" stop="20250917050349 +0000">
+    <title>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250917050349 +0000" stop="20250917072544 +0000">
+    <title>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250917072544 +0000" stop="20250917092544 +0000">
+    <title>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250917092544 +0000" stop="20250917112544 +0000">
+    <title>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250917112544 +0000" stop="20250917142544 +0000">
+    <title>Australia v India - Match 01 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v India - Match 01 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250917142544 +0000" stop="20250917172511 +0000">
+    <title>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v Zimbabwe - Match 02 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250917172511 +0000" stop="20250917202511 +0000">
+    <title>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v Zimbabwe - Match 04 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250917202511 +0000" stop="20250917232511 +0000">
+    <title>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</title>
+    <desc>India v Zimbabwe - Match 6 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250917232511 +0000" stop="20250918022511 +0000">
+    <title>Australia v India - Match 07 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v India - Match 07 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250918022511 +0000" stop="20250918052511 +0000">
+    <title>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</title>
+    <desc>Australia v Zimbabwe - Match 09 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250918052511 +0000" stop="20250918082511 +0000">
+    <title>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</title>
+    <desc>India v Zimbabwe - Match 12 - 2003/04 ODI Tri-Series</desc>
+  </programme>
+  <programme channel="5294" start="20250918082511 +0000" stop="20250918102458 +0000">
+    <title>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 1st Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250918102458 +0000" stop="20250918124654 +0000">
+    <title>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 2nd Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250918124654 +0000" stop="20250918144654 +0000">
+    <title>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 3rd Test - 2003/04 Border-Gavaskar Trophy</desc>
+  </programme>
+  <programme channel="5294" start="20250918144654 +0000" stop="20250918164654 +0000">
+    <title>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</title>
+    <desc>Australia v India - 4th Test - 2003/04 Border-Gavaskar Trophy</desc>
   </programme>
   <programme channel="7289" start="20250916060000 +0000" stop="20250916070000 +0000">
     <title>Longines FEI Jumping Nations Cup - San Juan Capistrano (California)</title>
@@ -10991,26 +10844,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
     <title>FEI Equestrian World - Episode 6</title>
     <desc>In this week's episode we are in Canada to find out who qualified for the Longines FEI Jumping Nations Cup Final in the North and Central America and Caribbean division. Then, we visit Mount St John Equestrian in Yorkshire, England, to learn about the breeding of dressage horses. We will also visit a therapeutic riding school on Vancouver Island before catching up on the action from the FEI Eventing Nations Cup. Don't miss out!</desc>
   </programme>
-  <programme channel="5295" start="20250916030805 +0000" stop="20250916034930 +0000">
-    <title>Hell on Wheels Rodeo June 28, 2024 - Part III</title>
-    <desc>Watch Now on EQUUS</desc>
-  </programme>
-  <programme channel="5295" start="20250916034930 +0000" stop="20250916035434 +0000">
-    <title>Matt Keogh of Boot Barn at The Wrangler - Hell on Wheels Rodeo Interview with Jacqueline Taylor</title>
-    <desc>Cheyenne, Wyoming</desc>
-  </programme>
-  <programme channel="5295" start="20250916035434 +0000" stop="20250916043017 +0000">
-    <title>Hell on Wheels Rodeo June 28, 2024 - Part IV</title>
-    <desc>Watch Now on EQUUS</desc>
-  </programme>
-  <programme channel="6581" start="20250916030000 +0000" stop="20250916060000 +0000">
-    <title>To Be Announced</title>
-    <desc>Program information is not yet available</desc>
-  </programme>
-  <programme channel="5299" start="20250916025926 +0000" stop="20250916043352 +0000">
-    <title>Chopping Mall</title>
-    <desc>Three malfunctioning security droids terrorise a group of teenagers locked inside a shopping mall.</desc>
-  </programme>
   <programme channel="5428" start="60000909175737 +0000" stop="96000909175737 +0000">
     <title>Camryn and Milo Manheim</title>
     <desc>Host Brad Pomerance takes Camryn and Milo Manheim on a journey to explore their family history through Poland, Belgium, Switzerland, and the American South and Midwest.</desc>
@@ -11047,47 +10880,419 @@ incredible training stories, talk about some of their toughest match-ups and muc
     <title>Full Body Imaging</title>
     <desc>Michelle takes an in-depth look at Body Scans, a revolutionary diagnostic imaging test. Also, we learn about the mineral Silica to help get healthy hair and nails. Get a healthy glow with the latest in self-tanners and natural tanning products.</desc>
   </programme>
-  <programme channel="5302" start="20250916022825 +0000" stop="20250916033150 +0000">
-    <title>Lavell Crawford "Can A Brother Get Some Love" Comedy Special</title>
-    <desc>Here is comedian Lavell Crawford's "Can A Brother Get Some Love" Comedy Special.</desc>
+  <programme channel="6465" start="20250916050000 +0000" stop="20250916093000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
   </programme>
-  <programme channel="5302" start="20250916033150 +0000" stop="20250916035454 +0000">
-    <title>Karlous Miller Stand Up Comedy at The Laugh Factory</title>
-    <desc>Here is Karlous Miller (of 85 South fame) performing Stand Up Comedy at The Laugh Factory.</desc>
+  <programme channel="6465" start="20250916093000 +0000" stop="20250916100000 +0000">
+    <title>News On 6 at 4:30 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
   </programme>
-  <programme channel="5302" start="20250916035454 +0000" stop="20250916045505 +0000">
-    <title>Kenny Howell "From The Projects To The Ghetto" Comedy Special</title>
-    <desc>Mike Epps Presents KENNY HOWELL's From The Projects to The Ghetto  comedy special.</desc>
+  <programme channel="6465" start="20250916100000 +0000" stop="20250916110000 +0000">
+    <title>News On 6 at 5 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
   </programme>
-  <programme channel="5273" start="20250916014311 +0000" stop="20250916032700 +0000">
-    <title>Last Chance Cafe</title>
-    <desc>After uncovering evidence that her stepfather was murdered by a ring of corrupt cops and judges, including her DA ex-husband, a woman is forced to flee with her daughter and hide in a small farming town, where she falls for a local ranch owner but danger soon follows.</desc>
+  <programme channel="6465" start="20250916110000 +0000" stop="20250916120000 +0000">
+    <title>News On 6 at 6 AM: LIVE</title>
+    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
   </programme>
-  <programme channel="5273" start="20250916032700 +0000" stop="20250916051819 +0000">
-    <title>Max Havoc: Curse of the Dragon</title>
-    <desc>Exotic action/adventure and martial arts blend together as Max Havoc, world famous kickboxer turned sports photographer, faces the relentless Black Dragons in a reluctant quest to save the lovely Goody sisters and to avenge the death of good friend Tahsi in Guam.</desc>
+  <programme channel="6465" start="20250916120000 +0000" stop="20250916140000 +0000">
+    <title>Six in the Morning on KQCW: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
   </programme>
-  <programme channel="3353" start="20250916030408 +0000" stop="20250916032839 +0000">
-    <title>Parsvottanasana</title>
-    <desc>This 20 minute practice starts with the basics, building a connection to breath and body. Flow through standing poses that build up to a prop supported variation of Parsvottanasana.</desc>
+  <programme channel="6465" start="20250916140000 +0000" stop="20250916150000 +0000">
+    <title>News On 6 at 9 AM: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
   </programme>
-  <programme channel="3353" start="20250916032839 +0000" stop="20250916040431 +0000">
-    <title>Bridge</title>
-    <desc>This practice takes you on a journey through the fundamentals of yoga and culminates in a gentle backbend, the bridge pose</desc>
+  <programme channel="6465" start="20250916150000 +0000" stop="20250916170000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
   </programme>
-  <programme channel="3353" start="20250916040431 +0000" stop="20250916043531 +0000">
-    <title>Backbend - Listen</title>
-    <desc>Join Kino for as class that’s all about backbends and the journey of listening. Begin to tap into the subtle body as you move through this mindful, 25-minute backbending practice. Talk to your muscles and joints and listen to them as you find the strength and flexibility to move through this practice, all while bringing your awareness to various places in the body.</desc>
+  <programme channel="6465" start="20250916170000 +0000" stop="20250916180000 +0000">
+    <title>News On 6 at Noon: LIVE</title>
+    <desc>No Description</desc>
   </programme>
-  <programme channel="5290" start="20250915235700 +0000" stop="20250916032500 +0000">
-    <title>Adam's Open House</title>
-    <desc>Join Adam as he unpacks all you need to take care of YOU from our new home at HSN PA!</desc>
+  <programme channel="6465" start="20250916180000 +0000" stop="20250916210000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
   </programme>
-  <programme channel="6467" start="20250916030000 +0000" stop="20250916033000 +0000">
+  <programme channel="6465" start="20250916210000 +0000" stop="20250916220000 +0000">
+    <title>News On 6 at 4 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250916220000 +0000" stop="20250916223000 +0000">
+    <title>News On 6 at 5 PM: LIVE</title>
+    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
+  </programme>
+  <programme channel="6465" start="20250916223000 +0000" stop="20250916230000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250916230000 +0000" stop="20250916233000 +0000">
+    <title>News On 6 at 6 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250916233000 +0000" stop="20250917020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917020000 +0000" stop="20250917030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250917030000 +0000" stop="20250917033000 +0000">
     <title>News On 6 at 10 PM: LIVE</title>
     <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
   </programme>
-  <programme channel="6467" start="20250916033000 +0000" stop="20250916050000 +0000">
+  <programme channel="6465" start="20250917033000 +0000" stop="20250917050000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917050000 +0000" stop="20250917093000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917093000 +0000" stop="20250917100000 +0000">
+    <title>News On 6 at 4:30 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title>News On 6 at 5 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250917110000 +0000" stop="20250917120000 +0000">
+    <title>News On 6 at 6 AM: LIVE</title>
+    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250917120000 +0000" stop="20250917140000 +0000">
+    <title>Six in the Morning on KQCW: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250917140000 +0000" stop="20250917150000 +0000">
+    <title>News On 6 at 9 AM: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250917150000 +0000" stop="20250917170000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917170000 +0000" stop="20250917180000 +0000">
+    <title>News On 6 at Noon: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917180000 +0000" stop="20250917210000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title>News On 6 at 4 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917220000 +0000" stop="20250917223000 +0000">
+    <title>News On 6 at 5 PM: LIVE</title>
+    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
+  </programme>
+  <programme channel="6465" start="20250917223000 +0000" stop="20250917230000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917230000 +0000" stop="20250917233000 +0000">
+    <title>News On 6 at 6 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250917233000 +0000" stop="20250918020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918020000 +0000" stop="20250918030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250918030000 +0000" stop="20250918033000 +0000">
+    <title>News On 6 at 10 PM: LIVE</title>
+    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
+  </programme>
+  <programme channel="6465" start="20250918033000 +0000" stop="20250918050000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918050000 +0000" stop="20250918093000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918093000 +0000" stop="20250918100000 +0000">
+    <title>News On 6 at 4:30 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250918100000 +0000" stop="20250918110000 +0000">
+    <title>News On 6 at 5 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250918110000 +0000" stop="20250918120000 +0000">
+    <title>News On 6 at 6 AM: LIVE</title>
+    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250918120000 +0000" stop="20250918140000 +0000">
+    <title>Six in the Morning on KQCW: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250918140000 +0000" stop="20250918150000 +0000">
+    <title>News On 6 at 9 AM: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250918150000 +0000" stop="20250918170000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918170000 +0000" stop="20250918180000 +0000">
+    <title>News On 6 at Noon: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918180000 +0000" stop="20250918210000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918210000 +0000" stop="20250918220000 +0000">
+    <title>News On 6 at 4 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918220000 +0000" stop="20250918223000 +0000">
+    <title>News On 6 at 5 PM: LIVE</title>
+    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
+  </programme>
+  <programme channel="6465" start="20250918223000 +0000" stop="20250918230000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918230000 +0000" stop="20250918233000 +0000">
+    <title>News On 6 at 6 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250918233000 +0000" stop="20250919020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919020000 +0000" stop="20250919030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250919030000 +0000" stop="20250919033000 +0000">
+    <title>News On 6 at 10 PM: LIVE</title>
+    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
+  </programme>
+  <programme channel="6465" start="20250919033000 +0000" stop="20250919050000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919050000 +0000" stop="20250919093000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919093000 +0000" stop="20250919100000 +0000">
+    <title>News On 6 at 4:30 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250919100000 +0000" stop="20250919110000 +0000">
+    <title>News On 6 at 5 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250919110000 +0000" stop="20250919120000 +0000">
+    <title>News On 6 at 6 AM: LIVE</title>
+    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250919120000 +0000" stop="20250919140000 +0000">
+    <title>Six in the Morning on KQCW: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250919140000 +0000" stop="20250919150000 +0000">
+    <title>News On 6 at 9 AM: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250919150000 +0000" stop="20250919170000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919170000 +0000" stop="20250919180000 +0000">
+    <title>News On 6 at Noon: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919180000 +0000" stop="20250919210000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919210000 +0000" stop="20250919220000 +0000">
+    <title>News On 6 at 4 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919220000 +0000" stop="20250919223000 +0000">
+    <title>News On 6 at 5 PM: LIVE</title>
+    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
+  </programme>
+  <programme channel="6465" start="20250919223000 +0000" stop="20250919230000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919230000 +0000" stop="20250919233000 +0000">
+    <title>News On 6 at 6 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250919233000 +0000" stop="20250920020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250920020000 +0000" stop="20250920030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250920030000 +0000" stop="20250920033000 +0000">
+    <title>News On 6 at 10 PM: LIVE</title>
+    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
+  </programme>
+  <programme channel="6465" start="20250920033000 +0000" stop="20250920050000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250920050000 +0000" stop="20250920130000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250920130000 +0000" stop="20250920150000 +0000">
+    <title>Six in the Morning Weekend</title>
+    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast, and latest sports highlights.</desc>
+  </programme>
+  <programme channel="6465" start="20250920150000 +0000" stop="20250920230000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250920230000 +0000" stop="20250920233000 +0000">
+    <title>News On 6 at 6 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250920233000 +0000" stop="20250921000000 +0000">
+    <title>News On 6 at 6:30 PM</title>
+    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast, and latest sports highlights.</desc>
+  </programme>
+  <programme channel="6465" start="20250921000000 +0000" stop="20250921020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250921020000 +0000" stop="20250921030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250921030000 +0000" stop="20250921033000 +0000">
+    <title>News On 6 at 10 PM: LIVE</title>
+    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
+  </programme>
+  <programme channel="6465" start="20250921033000 +0000" stop="20250921040000 +0000">
+    <title>News On 6 at 10 PM Late Edition: LIVE</title>
+    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast and latest sports highlights.</desc>
+  </programme>
+  <programme channel="6465" start="20250921040000 +0000" stop="20250921050000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250921050000 +0000" stop="20250921120000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>Recent stories from around Green Country brought to you by News On 6.</desc>
+  </programme>
+  <programme channel="6465" start="20250921120000 +0000" stop="20250921130000 +0000">
+    <title>6 in the Morning Weekend: LIVE</title>
+    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast, and latest sports highlights.</desc>
+  </programme>
+  <programme channel="6465" start="20250921130000 +0000" stop="20250921223000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>Recent stories from around Green Country brought to you by News On 6.</desc>
+  </programme>
+  <programme channel="6465" start="20250921223000 +0000" stop="20250921230000 +0000">
+    <title>News On 6 at 5:30 PM: LIVE</title>
+    <desc>An in-depth look at the day's major news events is presented by the News on 6 Team, along with the latest weather forecast and sports highlights.</desc>
+  </programme>
+  <programme channel="6465" start="20250921230000 +0000" stop="20250922020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922020000 +0000" stop="20250922030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250922030000 +0000" stop="20250922032600 +0000">
+    <title>News On 6 at 10 PM: LIVE</title>
+    <desc>The News On 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather, and tomorrow's forecast.</desc>
+  </programme>
+  <programme channel="6465" start="20250922032600 +0000" stop="20250922040000 +0000">
+    <title>Oklahoma Sports Blitz: LIVE</title>
+    <desc>Weekly sports coverage from across Oklahoma, co-hosted by News 9 in Oklahoma City.</desc>
+  </programme>
+  <programme channel="6465" start="20250922040000 +0000" stop="20250922050000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922050000 +0000" stop="20250922093000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922093000 +0000" stop="20250922100000 +0000">
+    <title>News On 6 at 4:30 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250922100000 +0000" stop="20250922110000 +0000">
+    <title>News On 6 at 5 AM: LIVE</title>
+    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250922110000 +0000" stop="20250922120000 +0000">
+    <title>News On 6 at 6 AM: LIVE</title>
+    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250922120000 +0000" stop="20250922140000 +0000">
+    <title>Six in the Morning on KQCW: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250922140000 +0000" stop="20250922150000 +0000">
+    <title>News On 6 at 9 AM: LIVE</title>
+    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
+  </programme>
+  <programme channel="6465" start="20250922150000 +0000" stop="20250922170000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922170000 +0000" stop="20250922180000 +0000">
+    <title>News On 6 at Noon: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922180000 +0000" stop="20250922210000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922210000 +0000" stop="20250922220000 +0000">
+    <title>News On 6 at 4 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922220000 +0000" stop="20250922223000 +0000">
+    <title>News On 6 at 5 PM: LIVE</title>
+    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
+  </programme>
+  <programme channel="6465" start="20250922223000 +0000" stop="20250922230000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922230000 +0000" stop="20250922233000 +0000">
+    <title>News On 6 at 6 PM: LIVE</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250922233000 +0000" stop="20250923020000 +0000">
+    <title>News On 6 Recent Stories</title>
+    <desc>No Description</desc>
+  </programme>
+  <programme channel="6465" start="20250923020000 +0000" stop="20250923030000 +0000">
+    <title>News On 6 at 9 PM on the CW: LIVE</title>
+    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
+  </programme>
+  <programme channel="6465" start="20250923030000 +0000" stop="20250923033000 +0000">
+    <title>News On 6 at 10 PM: LIVE</title>
+    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
+  </programme>
+  <programme channel="6465" start="20250923033000 +0000" stop="20250923050000 +0000">
     <title>News On 6 Recent Stories</title>
     <desc>No Description</desc>
   </programme>
@@ -11506,446 +11711,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
   <programme channel="6467" start="20250923033000 +0000" stop="20250923050000 +0000">
     <title>News On 6 Recent Stories</title>
     <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916030000 +0000" stop="20250916033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250916033000 +0000" stop="20250916050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916050000 +0000" stop="20250916093000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916093000 +0000" stop="20250916100000 +0000">
-    <title>News On 6 at 4:30 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250916100000 +0000" stop="20250916110000 +0000">
-    <title>News On 6 at 5 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250916110000 +0000" stop="20250916120000 +0000">
-    <title>News On 6 at 6 AM: LIVE</title>
-    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250916120000 +0000" stop="20250916140000 +0000">
-    <title>Six in the Morning on KQCW: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250916140000 +0000" stop="20250916150000 +0000">
-    <title>News On 6 at 9 AM: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250916150000 +0000" stop="20250916170000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916170000 +0000" stop="20250916180000 +0000">
-    <title>News On 6 at Noon: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916180000 +0000" stop="20250916210000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916210000 +0000" stop="20250916220000 +0000">
-    <title>News On 6 at 4 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916220000 +0000" stop="20250916223000 +0000">
-    <title>News On 6 at 5 PM: LIVE</title>
-    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
-  </programme>
-  <programme channel="6465" start="20250916223000 +0000" stop="20250916230000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916230000 +0000" stop="20250916233000 +0000">
-    <title>News On 6 at 6 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250916233000 +0000" stop="20250917020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917020000 +0000" stop="20250917030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250917030000 +0000" stop="20250917033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250917033000 +0000" stop="20250917050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917050000 +0000" stop="20250917093000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917093000 +0000" stop="20250917100000 +0000">
-    <title>News On 6 at 4:30 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250917100000 +0000" stop="20250917110000 +0000">
-    <title>News On 6 at 5 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250917110000 +0000" stop="20250917120000 +0000">
-    <title>News On 6 at 6 AM: LIVE</title>
-    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250917120000 +0000" stop="20250917140000 +0000">
-    <title>Six in the Morning on KQCW: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250917140000 +0000" stop="20250917150000 +0000">
-    <title>News On 6 at 9 AM: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250917150000 +0000" stop="20250917170000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917170000 +0000" stop="20250917180000 +0000">
-    <title>News On 6 at Noon: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917180000 +0000" stop="20250917210000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917210000 +0000" stop="20250917220000 +0000">
-    <title>News On 6 at 4 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917220000 +0000" stop="20250917223000 +0000">
-    <title>News On 6 at 5 PM: LIVE</title>
-    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
-  </programme>
-  <programme channel="6465" start="20250917223000 +0000" stop="20250917230000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917230000 +0000" stop="20250917233000 +0000">
-    <title>News On 6 at 6 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250917233000 +0000" stop="20250918020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918020000 +0000" stop="20250918030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250918030000 +0000" stop="20250918033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250918033000 +0000" stop="20250918050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918050000 +0000" stop="20250918093000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918093000 +0000" stop="20250918100000 +0000">
-    <title>News On 6 at 4:30 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250918100000 +0000" stop="20250918110000 +0000">
-    <title>News On 6 at 5 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250918110000 +0000" stop="20250918120000 +0000">
-    <title>News On 6 at 6 AM: LIVE</title>
-    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250918120000 +0000" stop="20250918140000 +0000">
-    <title>Six in the Morning on KQCW: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250918140000 +0000" stop="20250918150000 +0000">
-    <title>News On 6 at 9 AM: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250918150000 +0000" stop="20250918170000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918170000 +0000" stop="20250918180000 +0000">
-    <title>News On 6 at Noon: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918180000 +0000" stop="20250918210000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918210000 +0000" stop="20250918220000 +0000">
-    <title>News On 6 at 4 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918220000 +0000" stop="20250918223000 +0000">
-    <title>News On 6 at 5 PM: LIVE</title>
-    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
-  </programme>
-  <programme channel="6465" start="20250918223000 +0000" stop="20250918230000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918230000 +0000" stop="20250918233000 +0000">
-    <title>News On 6 at 6 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250918233000 +0000" stop="20250919020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919020000 +0000" stop="20250919030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250919030000 +0000" stop="20250919033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250919033000 +0000" stop="20250919050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919050000 +0000" stop="20250919093000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919093000 +0000" stop="20250919100000 +0000">
-    <title>News On 6 at 4:30 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250919100000 +0000" stop="20250919110000 +0000">
-    <title>News On 6 at 5 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250919110000 +0000" stop="20250919120000 +0000">
-    <title>News On 6 at 6 AM: LIVE</title>
-    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250919120000 +0000" stop="20250919140000 +0000">
-    <title>Six in the Morning on KQCW: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250919140000 +0000" stop="20250919150000 +0000">
-    <title>News On 6 at 9 AM: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250919150000 +0000" stop="20250919170000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919170000 +0000" stop="20250919180000 +0000">
-    <title>News On 6 at Noon: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919180000 +0000" stop="20250919210000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919210000 +0000" stop="20250919220000 +0000">
-    <title>News On 6 at 4 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919220000 +0000" stop="20250919223000 +0000">
-    <title>News On 6 at 5 PM: LIVE</title>
-    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
-  </programme>
-  <programme channel="6465" start="20250919223000 +0000" stop="20250919230000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919230000 +0000" stop="20250919233000 +0000">
-    <title>News On 6 at 6 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250919233000 +0000" stop="20250920020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250920020000 +0000" stop="20250920030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250920030000 +0000" stop="20250920033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250920033000 +0000" stop="20250920050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250920050000 +0000" stop="20250920130000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250920130000 +0000" stop="20250920150000 +0000">
-    <title>Six in the Morning Weekend</title>
-    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast, and latest sports highlights.</desc>
-  </programme>
-  <programme channel="6465" start="20250920150000 +0000" stop="20250920230000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250920230000 +0000" stop="20250920233000 +0000">
-    <title>News On 6 at 6 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250920233000 +0000" stop="20250921000000 +0000">
-    <title>News On 6 at 6:30 PM</title>
-    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast, and latest sports highlights.</desc>
-  </programme>
-  <programme channel="6465" start="20250921000000 +0000" stop="20250921020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250921020000 +0000" stop="20250921030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250921030000 +0000" stop="20250921033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250921033000 +0000" stop="20250921040000 +0000">
-    <title>News On 6 at 10 PM Late Edition: LIVE</title>
-    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast and latest sports highlights.</desc>
-  </programme>
-  <programme channel="6465" start="20250921040000 +0000" stop="20250921050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250921050000 +0000" stop="20250921120000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>Recent stories from around Green Country brought to you by News On 6.</desc>
-  </programme>
-  <programme channel="6465" start="20250921120000 +0000" stop="20250921130000 +0000">
-    <title>6 in the Morning Weekend: LIVE</title>
-    <desc>The News On 6 weekend team provides a comprehensive look at updated news events, a detailed and up to the minute weather forecast, and latest sports highlights.</desc>
-  </programme>
-  <programme channel="6465" start="20250921130000 +0000" stop="20250921223000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>Recent stories from around Green Country brought to you by News On 6.</desc>
-  </programme>
-  <programme channel="6465" start="20250921223000 +0000" stop="20250921230000 +0000">
-    <title>News On 6 at 5:30 PM: LIVE</title>
-    <desc>An in-depth look at the day's major news events is presented by the News on 6 Team, along with the latest weather forecast and sports highlights.</desc>
-  </programme>
-  <programme channel="6465" start="20250921230000 +0000" stop="20250922020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922020000 +0000" stop="20250922030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250922030000 +0000" stop="20250922032600 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News On 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather, and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250922032600 +0000" stop="20250922040000 +0000">
-    <title>Oklahoma Sports Blitz: LIVE</title>
-    <desc>Weekly sports coverage from across Oklahoma, co-hosted by News 9 in Oklahoma City.</desc>
-  </programme>
-  <programme channel="6465" start="20250922040000 +0000" stop="20250922050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922050000 +0000" stop="20250922093000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922093000 +0000" stop="20250922100000 +0000">
-    <title>News On 6 at 4:30 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250922100000 +0000" stop="20250922110000 +0000">
-    <title>News On 6 at 5 AM: LIVE</title>
-    <desc>Wake up with the early Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250922110000 +0000" stop="20250922120000 +0000">
-    <title>News On 6 at 6 AM: LIVE</title>
-    <desc>Wake up with the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250922120000 +0000" stop="20250922140000 +0000">
-    <title>Six in the Morning on KQCW: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250922140000 +0000" stop="20250922150000 +0000">
-    <title>News On 6 at 9 AM: LIVE</title>
-    <desc>Join the Six in the Morning Crew as they catch you up on news and the day's events.</desc>
-  </programme>
-  <programme channel="6465" start="20250922150000 +0000" stop="20250922170000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922170000 +0000" stop="20250922180000 +0000">
-    <title>News On 6 at Noon: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922180000 +0000" stop="20250922210000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922210000 +0000" stop="20250922220000 +0000">
-    <title>News On 6 at 4 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922220000 +0000" stop="20250922223000 +0000">
-    <title>News On 6 at 5 PM: LIVE</title>
-    <desc>The day's top news events are examined by the News On 6 Evening Team, along with the latest business, sports, Tulsa area weather, and rush-hour traffic updates.</desc>
-  </programme>
-  <programme channel="6465" start="20250922223000 +0000" stop="20250922230000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922230000 +0000" stop="20250922233000 +0000">
-    <title>News On 6 at 6 PM: LIVE</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250922233000 +0000" stop="20250923020000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6465" start="20250923020000 +0000" stop="20250923030000 +0000">
-    <title>News On 6 at 9 PM on the CW: LIVE</title>
-    <desc>Join the News On 6 team each day as they bring you an hour of the latest breaking news, weather, and updates on Oklahoma's Own CW.</desc>
-  </programme>
-  <programme channel="6465" start="20250923030000 +0000" stop="20250923033000 +0000">
-    <title>News On 6 at 10 PM: LIVE</title>
-    <desc>The News on 6 Team presents the latest look at the top news events of the day, late-breaking news stories, Tulsa area weather and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6465" start="20250923033000 +0000" stop="20250923050000 +0000">
-    <title>News On 6 Recent Stories</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6469" start="20250916030000 +0000" stop="20250916033500 +0000">
-    <title>5 Eyewitness News Nightcast (LIVE)</title>
-    <desc>The 5 Eyewitness News Team has Your Forecast First and comprehensive reports on impactful news from today, up-to-the-minute sports, and what to expect for tomorrow.</desc>
-  </programme>
-  <programme channel="6469" start="20250916033500 +0000" stop="20250916041000 +0000">
-    <title>5 Eyewitness News Nightcast (REPLAY)</title>
-    <desc>The 5 Eyewitness News Team has Your Forecast First and comprehensive reports on impactful news from today, up-to-the-minute sports, and what to expect for tomorrow.</desc>
-  </programme>
-  <programme channel="6469" start="20250916041000 +0000" stop="20250916044500 +0000">
-    <title>5 Eyewitness News Nightcast (REPLAY)</title>
-    <desc>The 5 Eyewitness News Team has Your Forecast First and comprehensive reports on impactful news from today, up-to-the-minute sports, and what to expect for tomorrow.</desc>
-  </programme>
-  <programme channel="6469" start="20250916050000 +0000" stop="20250916060000 +0000">
-    <title>Twin Cities Live (REPLAY)</title>
-    <desc>A local talk show featuring food, fashion &amp; fun for Minnesotans. Discover new places to eat, fashion with local flair, and fresh recipes for your family.</desc>
   </programme>
   <programme channel="6469" start="20250916060000 +0000" stop="20250916063500 +0000">
     <title>5 Eyewitness News Nightcast (REPLAY)</title>
@@ -12778,22 +12543,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
   <programme channel="6469" start="20250923041000 +0000" stop="20250923044500 +0000">
     <title>5 Eyewitness News Nightcast (REPLAY)</title>
     <desc>The 5 Eyewitness News Team has Your Forecast First and comprehensive reports on impactful news from today, up-to-the-minute sports, and what to expect for tomorrow.</desc>
-  </programme>
-  <programme channel="6473" start="20250916030000 +0000" stop="20250916040000 +0000">
-    <title>KOB 4 Eyewitness News at 6pm (REPLAY)</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6473" start="20250916040000 +0000" stop="20250916043500 +0000">
-    <title>KOB 4 Nightbeat (LIVE)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the Eyewitness News 4 Team.</desc>
-  </programme>
-  <programme channel="6473" start="20250916043500 +0000" stop="20250916051000 +0000">
-    <title>KOB 4 Nightbeat (REPLAY)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the Eyewitness News 4 Team.</desc>
-  </programme>
-  <programme channel="6473" start="20250916051000 +0000" stop="20250916054500 +0000">
-    <title>KOB 4 Nightbeat (REPLAY)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the Eyewitness News 4 Team.</desc>
   </programme>
   <programme channel="6473" start="20250916054500 +0000" stop="20250916062000 +0000">
     <title>KOB 4 Nightbeat (REPLAY)</title>
@@ -13807,26 +13556,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
     <title>KOB 4 Nightbeat (LIVE)</title>
     <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the Eyewitness News 4 Team.</desc>
   </programme>
-  <programme channel="6475" start="20250916030000 +0000" stop="20250916033500 +0000">
-    <title>NewsChannel 13 Live at 11 (LIVE)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team.</desc>
-  </programme>
-  <programme channel="6475" start="20250916033500 +0000" stop="20250916041000 +0000">
-    <title>NewsChannel 13 Live at 11 (REPLAY)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team</desc>
-  </programme>
-  <programme channel="6475" start="20250916041000 +0000" stop="20250916044500 +0000">
-    <title>NewsChannel 13 Live at 11 (REPLAY)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team</desc>
-  </programme>
-  <programme channel="6475" start="20250916044500 +0000" stop="20250916052000 +0000">
-    <title>NewsChannel 13 Live at 11 (REPLAY)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team</desc>
-  </programme>
-  <programme channel="6475" start="20250916052000 +0000" stop="20250916055500 +0000">
-    <title>NewsChannel 13 Live at 11 (REPLAY)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team</desc>
-  </programme>
   <programme channel="6475" start="20250916055500 +0000" stop="20250916063000 +0000">
     <title>NewsChannel 13 Live at 11 (REPLAY)</title>
     <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team</desc>
@@ -14823,26 +14552,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
     <title>NewsChannel 13 Live at 11 (REPLAY)</title>
     <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by the NewsChannel 13 Team</desc>
   </programme>
-  <programme channel="6479" start="20250916030000 +0000" stop="20250916033500 +0000">
-    <title>WDIO News at Ten (LIVE)</title>
-    <desc>Local news, sports, weather presented by the WDIO News Team</desc>
-  </programme>
-  <programme channel="6479" start="20250916033500 +0000" stop="20250916041000 +0000">
-    <title>WDIO News at Ten (REPLAY)</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6479" start="20250916041000 +0000" stop="20250916044500 +0000">
-    <title>WDIO News at Ten (REPLAY)</title>
-    <desc>Local news, sports, weather presented by the WDIO News Team</desc>
-  </programme>
-  <programme channel="6479" start="20250916044500 +0000" stop="20250916052000 +0000">
-    <title>WDIO News at Ten (REPLAY)</title>
-    <desc>Local news, sports, weather presented by the WDIO News Team</desc>
-  </programme>
-  <programme channel="6479" start="20250916052000 +0000" stop="20250916055500 +0000">
-    <title>WDIO News at Ten (REPLAY)</title>
-    <desc>Local news, sports, weather presented by the WDIO News Team</desc>
-  </programme>
   <programme channel="6479" start="20250916055500 +0000" stop="20250916063000 +0000">
     <title>WDIO News at Ten (REPLAY)</title>
     <desc>Local news, sports, weather presented by the WDIO News Team</desc>
@@ -15830,26 +15539,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
   <programme channel="6479" start="20250923041000 +0000" stop="20250923044500 +0000">
     <title>WDIO News at Ten (REPLAY)</title>
     <desc>Local news, sports, weather presented by the WDIO News Team</desc>
-  </programme>
-  <programme channel="6477" start="20250916030000 +0000" stop="20250916033500 +0000">
-    <title>News10NBC at Eleven (LIVE)</title>
-    <desc>The News 10NBC Team reports on the day's News, sports and community events. Also presented is weather information and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6477" start="20250916033500 +0000" stop="20250916041000 +0000">
-    <title>News10NBC at Eleven (REPLAY)</title>
-    <desc>No Description</desc>
-  </programme>
-  <programme channel="6477" start="20250916041000 +0000" stop="20250916044500 +0000">
-    <title>News10NBC at Eleven (REPLAY)</title>
-    <desc>The News 10NBC Team reports on the day's News, sports and community events. Also presented is weather information and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6477" start="20250916044500 +0000" stop="20250916052000 +0000">
-    <title>News10NBC at Eleven (REPLAY)</title>
-    <desc>The News 10NBC Team reports on the day's News, sports and community events. Also presented is weather information and tomorrow's forecast.</desc>
-  </programme>
-  <programme channel="6477" start="20250916052000 +0000" stop="20250916055500 +0000">
-    <title>News10NBC at Eleven (REPLAY)</title>
-    <desc>The News 10NBC Team reports on the day's News, sports and community events. Also presented is weather information and tomorrow's forecast.</desc>
   </programme>
   <programme channel="6477" start="20250916055500 +0000" stop="20250916063000 +0000">
     <title>News10NBC at Eleven (REPLAY)</title>
@@ -16875,26 +16564,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
     <title>News10NBC at Eleven (REPLAY)</title>
     <desc>The News 10NBC Team reports on the day's News, sports and community events. Also presented is weather information and tomorrow's forecast.</desc>
   </programme>
-  <programme channel="6481" start="20250916030000 +0000" stop="20250916033500 +0000">
-    <title>ABC 6 News at 10pm (LIVE)</title>
-    <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team, along with the latest sports, weather updates including the extended forecast.</desc>
-  </programme>
-  <programme channel="6481" start="20250916033500 +0000" stop="20250916041000 +0000">
-    <title>ABC 6 News at 10pm (REPLAY)</title>
-    <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team.</desc>
-  </programme>
-  <programme channel="6481" start="20250916041000 +0000" stop="20250916044500 +0000">
-    <title>ABC 6 News at 10pm (REPLAY)</title>
-    <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team.</desc>
-  </programme>
-  <programme channel="6481" start="20250916044500 +0000" stop="20250916052000 +0000">
-    <title>ABC 6 News at 10pm (REPLAY)</title>
-    <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team.</desc>
-  </programme>
-  <programme channel="6481" start="20250916052000 +0000" stop="20250916055500 +0000">
-    <title>ABC 6 News at 10pm (REPLAY)</title>
-    <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team.</desc>
-  </programme>
   <programme channel="6481" start="20250916055500 +0000" stop="20250916063000 +0000">
     <title>ABC 6 News at 10pm (REPLAY)</title>
     <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team.</desc>
@@ -17826,38 +17495,6 @@ incredible training stories, talk about some of their toughest match-ups and muc
   <programme channel="6481" start="20250923041000 +0000" stop="20250923044500 +0000">
     <title>ABC 6 News at 10pm (REPLAY)</title>
     <desc>The day's local, regional and national news, detailed events and late-breaking stories are presented by the ABC 6 News Team.</desc>
-  </programme>
-  <programme channel="5293" start="20250916014311 +0000" stop="20250916032700 +0000">
-    <title>Last Chance Cafe</title>
-    <desc>After uncovering evidence that her stepfather was murdered by a ring of corrupt cops and judges, including her DA ex-husband, a woman is forced to flee with her daughter and hide in a small farming town, where she falls for a local ranch owner but danger soon follows.</desc>
-  </programme>
-  <programme channel="5293" start="20250916032700 +0000" stop="20250916051819 +0000">
-    <title>Max Havoc: Curse of the Dragon</title>
-    <desc>Exotic action/adventure and martial arts blend together as Max Havoc, world famous kickboxer turned sports photographer, faces the relentless Black Dragons in a reluctant quest to save the lovely Goody sisters and to avenge the death of good friend Tahsi in Guam.</desc>
-  </programme>
-  <programme channel="6535" start="20250916030000 +0000" stop="20250916033000 +0000">
-    <title>Get Gephardt Rewind (Vol 3)</title>
-    <desc>Matt Gephardt dives deep into consumer news, uncovers scams, and helps Utah residents solve their toughest problems.</desc>
-  </programme>
-  <programme channel="6535" start="20250916033000 +0000" stop="20250916040000 +0000">
-    <title>Get Gephardt Rewind (Vol 1)</title>
-    <desc>Matt Gephardt dives deep into consumer news, uncovers scams, and helps Utah residents solve their toughest problems.</desc>
-  </programme>
-  <programme channel="6535" start="20250916040000 +0000" stop="20250916043000 +0000">
-    <title>LIVE: KSL 5 News at 10 PM</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
-  </programme>
-  <programme channel="6535" start="20250916043000 +0000" stop="20250916050000 +0000">
-    <title>KSL News at 10PM (Repeat)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
-  </programme>
-  <programme channel="6535" start="20250916050000 +0000" stop="20250916053000 +0000">
-    <title>KSL News at 10PM (Replay)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
-  </programme>
-  <programme channel="6535" start="20250916053000 +0000" stop="20250916060000 +0000">
-    <title>KSL News at 10PM (Replay)</title>
-    <desc>The day's major news events, business reports, local sports updates, weather information and tomorrow's forecast are presented by Deanie Wimmer, Mike Headrick, Debbie Worthen, Kevin Eubank and the KSL 5 News Team. Weekdays.</desc>
   </programme>
   <programme channel="6535" start="20250916060000 +0000" stop="20250916063000 +0000">
     <title>KSL News at 10PM (Replay)</title>
