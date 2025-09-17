@@ -3,130 +3,6 @@
     <display-name>MeTV</display-name>
     <icon src="https://new.mjh.nz/.images/metv.png"/>
   </channel>
-  <programme channel="metv" start="20250916193000 +0000" stop="20250916200000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Requiem At Mission Springs</sub-title>
-    <episode-num system="onscreen">S05E22</episode-num>
-    <desc>When Mark is paralyzed, Lucas attempts to cure him at the mission.</desc>
-  </programme>
-  <programme channel="metv" start="20250916200000 +0000" stop="20250916210000 +0000">
-    <title>Wagon Train</title>
-    <sub-title>The Duke Shannon Story</sub-title>
-    <episode-num system="onscreen">S04E30</episode-num>
-    <desc>"With his clever tall tales, old prospector Henry Shannon talks Charlie Wooster into coming with him to search for a gold mine. When Hawks finds out about this, he rides out after the two men, along with Shannon's grandson Duke. Also following the old men are three men who hope to grab the gold for themselves."</desc>
-  </programme>
-  <programme channel="metv" start="20250916210000 +0000" stop="20250916220000 +0000">
-    <title>Emergency!</title>
-    <sub-title>Insanity Epidemic</sub-title>
-    <episode-num system="onscreen">S06E14</episode-num>
-    <desc>Captain Stanley freaks out when he learns one of his past captains is now his Battalion Chief, causing the others to worry about his increased paranoia. Two men’s carelessness starts a fire at a gas station. A new hospital administrator causes problems. A woman accidentally shoots her husband with a nail gun. Two clowns start a fight at an ice rink. A car leaves an overpass and crashes into a transfer truck filled with pesticides.</desc>
-  </programme>
-  <programme channel="metv" start="20250916220000 +0000" stop="20250916223000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>The Billfold Syndrome</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>Charles becomes so irate when he is turned down for a future medical position at home that he refuses to talk to anyone in the unit, until Hawkeye and B.J. send him a false telegram from home. Meanwhile, a young soldier, Jerry Wilson, can't remember his own identity, so Sidney Freedman is called for help.</desc>
-  </programme>
-  <programme channel="metv" start="20250916223000 +0000" stop="20250916230000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>None Like It Hot</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>As the temperatures reach triple digits, Hawkeye and B.J. receive their new rubber bathtub from Abercrombie &amp; Fitch. However, soon the whole camp is hot under the collar as word leaks out about the tub and everyone wants a dip, except for Klinger, who is trying to get his Section 8 by wearing a fur coat.</desc>
-  </programme>
-  <programme channel="metv" start="20250916230000 +0000" stop="20250916233000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>They Call The Wind Korea</sub-title>
-    <episode-num system="onscreen">S07E07</episode-num>
-    <desc>A strong windstorm affects the M*A*S*H personnel in varying ways: Hawkeye and most of the unit busy themselves securing items that could blow away; Radar prepares his animal hutch for the worst; a disgusted Charles switches his Tokyo-leave transportation from air to ground and runs into a difficult medical situation en route to Seoul.</desc>
-  </programme>
-  <programme channel="metv" start="20250916233000 +0000" stop="20250917000000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>Major Ego</sub-title>
-    <episode-num system="onscreen">S07E08</episode-num>
-    <desc>Captain Tom Greenleigh of "Stars and Stripes" comes to the 4077th to write an article about Charles, which makes him act even more egotistical than usual.</desc>
-  </programme>
-  <programme channel="metv" start="20250917000000 +0000" stop="20250917003000 +0000">
-    <title>The Andy Griffith Show</title>
-    <sub-title>Opie And His Merry Men</sub-title>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <desc>When Opie and his friends find a hungry man in the woods who tells them the story of Robin Hood, the boys begin to steal for the man.</desc>
-  </programme>
-  <programme channel="metv" start="20250917003000 +0000" stop="20250917010000 +0000">
-    <title>The Andy Griffith Show</title>
-    <sub-title>Barney And The Cave Rescue</sub-title>
-    <episode-num system="onscreen">S04E13</episode-num>
-    <desc>Barney is the laughingstock of the town after he mistakes the owner of the Mayberry Bank as a robber.</desc>
-  </programme>
-  <programme channel="metv" start="20250917010000 +0000" stop="20250917013000 +0000">
-    <title>The Beverly Hillbillies</title>
-    <sub-title>The Reserve Program</sub-title>
-    <episode-num system="onscreen">S06E12</episode-num>
-    <desc>Jethro is getting ready to enter the reserves, and the Clampetts are giving him a party, with gifts, including lady fingers, a squirrel rifle and a Confederate uniform. Jethro heads down to the reserve where they are preparing to shoot a Civil War movie. The men there think Jethro is an actor for the movie. Jethro soon thinks that the Civil War is going to happen again and rushes home to tell Granny and Elly. Granny decides to take up the fight to make sure the South wins, again, since she is convinced they won the first time.</desc>
-  </programme>
-  <programme channel="metv" start="20250917013000 +0000" stop="20250917020000 +0000">
-    <title>Gomer Pyle, U.S.M.C.</title>
-    <sub-title>A Groom For Sergeant Carter's Sister</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Sgt. Carter objects to the man with whom his sister is engaged, and uses Gomer as a means of breaking them up. Little does he know, the brother-in-law-to-be also is a Marine.</desc>
-  </programme>
-  <programme channel="metv" start="20250917020000 +0000" stop="20250917023000 +0000">
-    <title>Hogan's Heroes</title>
-    <sub-title>The Great Impersonation</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Hogan gets Schultz to portray Klink in order to free three of his men whom the Gestapo has captured.</desc>
-  </programme>
-  <programme channel="metv" start="20250917023000 +0000" stop="20250917030000 +0000">
-    <title>Hogan's Heroes</title>
-    <sub-title>The Pizza Parlor</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>To get a Italian officer to defect, Hogan and the gang use pizza to tempt him.</desc>
-  </programme>
-  <programme channel="metv" start="20250917030000 +0000" stop="20250917033000 +0000">
-    <title>The Carol Burnett Show</title>
-    <sub-title>Guests Peggy Lee And Tim Conway</sub-title>
-    <desc>"Guests Peggy Lee and Tim Conway. Originally aired on 03/30/70."</desc>
-  </programme>
-  <programme channel="metv" start="20250917033000 +0000" stop="20250917043500 +0000">
-    <title>Perry Mason</title>
-    <sub-title>The Case Of The Missing Button</sub-title>
-    <episode-num system="onscreen">S08E01</episode-num>
-    <desc>A man's campaign to prove his estranged wife an unfit mother is interrupted when he's arrested for murder.</desc>
-  </programme>
-  <programme channel="metv" start="20250917043500 +0000" stop="20250917050500 +0000">
-    <title>The Twilight Zone</title>
-    <sub-title>The Last Rites Of Jeff Myrtlebank</sub-title>
-    <episode-num system="onscreen">S03E23</episode-num>
-    <desc>A man comes back to life at his own funeral and soon begins to act very strangely.</desc>
-  </programme>
-  <programme channel="metv" start="20250917050500 +0000" stop="20250917053500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>Party Line</sub-title>
-    <episode-num system="onscreen">S05E33</episode-num>
-    <desc>A woman shares a party line with two nosy neighbors.</desc>
-  </programme>
-  <programme channel="metv" start="20250917053500 +0000" stop="20250917060500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>Cell 227</sub-title>
-    <episode-num system="onscreen">S05E34</episode-num>
-    <desc>An innocent man faces death in the gas chamber for the death of a girl.</desc>
-  </programme>
-  <programme channel="metv" start="20250917060500 +0000" stop="20250917070500 +0000">
-    <title>Mannix</title>
-    <sub-title>Light And Shadow</sub-title>
-    <episode-num system="onscreen">S06E14</episode-num>
-    <desc>Mannix gets involved in the case of a millionaire's wife accused of killing the boyfriend of her stepdaughter.</desc>
-  </programme>
-  <programme channel="metv" start="20250917070500 +0000" stop="20250917080500 +0000">
-    <title>Cannon</title>
-    <sub-title>Perfect Fit For A Frame</sub-title>
-    <desc>"Cannon gets hired to protect a girl but when her supposed pursuer is found dead he finds himself charged with murder."</desc>
-  </programme>
-  <programme channel="metv" start="20250917080500 +0000" stop="20250917090000 +0000">
-    <title>Barnaby Jones</title>
-    <sub-title>Nightmare In Hawaii (part 2)</sub-title>
-    <episode-num system="onscreen">S08E03</episode-num>
-    <desc>In Hawaii, J.R. is framed for murder and thrown in jail by a vengeful cop.</desc>
-  </programme>
   <programme channel="metv" start="20250917090000 +0000" stop="20250917093000 +0000">
     <title>Dragnet</title>
     <sub-title>The Bank Jobs</sub-title>
@@ -1337,5 +1213,211 @@
     <sub-title>The Pyramid Swindle</sub-title>
     <episode-num system="onscreen">S02E12</episode-num>
     <desc>A female con-artist uses an evangelistic approach to lure buyers into her pyramid scheme. The Bunco division can't charge her with false advertising, so they prosecute her for operating a lottery.</desc>
+  </programme>
+  <programme channel="metv" start="20250923093000 +0000" stop="20250923100000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Phony Police Racket</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Friday and Gannon investigate a scam involving a phony LAPD newsletter, which comes with a card for subscribers entitling the bearer to preferential treatment from the police.</desc>
+  </programme>
+  <programme channel="metv" start="20250923100000 +0000" stop="20250923103000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 93 -- Once A Junkie</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>A former convict and informant who Malloy helped give a second chance is accused of assaulting a priest, dealing drugs and stealing a gun after being fired from his dish-washing job at Duke's Longhorn Café. Malloy and Reed set out to determine if his story, which is full of suspicious coincidences, is actually true.</desc>
+  </programme>
+  <programme channel="metv" start="20250923103000 +0000" stop="20250923110000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Log 123 -- Courtroom</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Reed feels a strong sense of accomplishment when he stumbles upon a large stash of narcotics as he secures a residence after executing a traffic warrant with Malloy and Officer Ed Wells. He's in for a rude awakening at the trial, however, when he's cross examined by the defense attorney.</desc>
+  </programme>
+  <programme channel="metv" start="20250923110000 +0000" stop="20250923120000 +0000">
+    <title>Toon In With Me</title>
+    <sub-title>Don't Believe Your Brain!</sub-title>
+    <desc>"Prepare to have your mind blown, as Bill reveals common shared false memories involving cartoons."</desc>
+  </programme>
+  <programme channel="metv" start="20250923120000 +0000" stop="20250923123000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>One Of The Boys</sub-title>
+    <episode-num system="onscreen">S05E34</episode-num>
+    <desc>Eddie and Wally finally get a chance to join the most exclusive social club in school, the Barons. However, after hanging out with the Barons on a Friday night, Eddie and Wally realize they don't want to be in this club because the guys really aren't who everybody thinks they are.</desc>
+  </programme>
+  <programme channel="metv" start="20250923123000 +0000" stop="20250923130000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Sweatshirt Monsters</sub-title>
+    <episode-num system="onscreen">S05E35</episode-num>
+    <desc>Beaver, Richard, Whitey and Alan each buy sweatshirts that have monster faces on the front of them. They like them so much they each decide to wear them to school the next day. However, each one finds that their parents forbid them from wearing such hideous sweatshirts to school. However, Beaver manages to sneak out of the house with his on.</desc>
+  </programme>
+  <programme channel="metv" start="20250923130000 +0000" stop="20250923140000 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Rolling Bones</sub-title>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <desc>When Daniel Reed finds himself being blackmailed by an old business partner from his time in Alaska, Mason must first save him from the insane asylum and then the gas chamber.</desc>
+  </programme>
+  <programme channel="metv" start="20250923140000 +0000" stop="20250923150000 +0000">
+    <title>Matlock</title>
+    <sub-title>Nowhere To Turn: Part 2  (s5, ep)</sub-title>
+    <desc>Matlock defends himself against a murder charge after a judge who issued him a contempt citation is found dead.</desc>
+  </programme>
+  <programme channel="metv" start="20250923150000 +0000" stop="20250923160000 +0000">
+    <title>In the Heat of the Night</title>
+    <sub-title>Anniversary</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>After being released by his captors, the chief discovers that his abduction is part of a plot to assassinate a visiting civil rights leader.</desc>
+  </programme>
+  <programme channel="metv" start="20250923160000 +0000" stop="20250923170000 +0000">
+    <title>The Waltons</title>
+    <sub-title>The Beau</sub-title>
+    <episode-num system="onscreen">S07E10</episode-num>
+    <desc>A former boyfriend of Grandma's comes to visit</desc>
+  </programme>
+  <programme channel="metv" start="20250923170000 +0000" stop="20250923180000 +0000">
+    <title>Gunsmoke</title>
+    <sub-title>Charlie Noon</sub-title>
+    <episode-num system="onscreen">S15E07</episode-num>
+    <desc>Matt, his hardened prisoner Charlie Noon, an indian woman and her white stepson are tracked by the Comanches as they try to cross the desert. The indians are going to kill all of them unless Matt hands over the woman.</desc>
+  </programme>
+  <programme channel="metv" start="20250923180000 +0000" stop="20250923190000 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Prisoners</sub-title>
+    <episode-num system="onscreen">S13E05</episode-num>
+    <desc>While helping to escort an old outlaw to jail, things take a turn for the worse when the prisoner murders the lawman and puts a bullet in Joe.</desc>
+  </programme>
+  <programme channel="metv" start="20250923190000 +0000" stop="20250923193000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Duel Of Honor</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>When an Italian count arrives in North Fork, his strange attire attracts the attention of Groder, a town bully. Groder, trying to have fun with this stranger, destroys some of the count's currency, mocks him and tries to humiliate him. Eventually the count challenges Groder to a duel.</desc>
+  </programme>
+  <programme channel="metv" start="20250923193000 +0000" stop="20250923200000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Safe Guard</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Floyd Doniger comes to North Fork, looking to start a new life. He's got a steady job as the guard at the new bank and he's entertaining ideas of settling down on a spread of his own.</desc>
+  </programme>
+  <programme channel="metv" start="20250923200000 +0000" stop="20250923210000 +0000">
+    <title>Wagon Train</title>
+    <sub-title>The Janet Hale Story</sub-title>
+    <episode-num system="onscreen">S04E35</episode-num>
+    <desc>"After losing one of her children in an accident, a woman is bitter with the wagon train and plans to turn back east, while her husband wishes to continue west. Hale, trying to persuade her to continue on, tells her the story of his own trip west with his family and the ensuing tragedy."</desc>
+  </programme>
+  <programme channel="metv" start="20250923210000 +0000" stop="20250923220000 +0000">
+    <title>Emergency!</title>
+    <sub-title>The Boat</sub-title>
+    <episode-num system="onscreen">S06E19</episode-num>
+    <desc>Charlie, the station mechanic, stores the boat he wants to sell at the station house, where the firemen decide that they want to chip in and buy it. The paramedics rescue two boaters from Catalina Island. A bookie has a heart attack. An explosion in a lab starts a fire at the hospital.</desc>
+  </programme>
+  <programme channel="metv" start="20250923220000 +0000" stop="20250923223000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Are You Now, Margaret?</sub-title>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <desc>A Congressional aide, Williamson, visits the 4077th on a supposedly routine fact-finding tour, but it's discovered that his motives are far deeper—too uncover Margaret as a communist sympathizer. His case is full of innuendo, so the gang set out to help Margaret.</desc>
+  </programme>
+  <programme channel="metv" start="20250923223000 +0000" stop="20250923230000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Guerilla My Dreams</sub-title>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <desc>The arrival of a wounded Korean woman sparks a conflict at the 4077th: Hawkeye wants to heal her, but a steely ROK officer, Lt. Park, is more anxious to "question" her about alleged guerilla activities.</desc>
+  </programme>
+  <programme channel="metv" start="20250923230000 +0000" stop="20250923233000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Good-bye Radar: Part 1</sub-title>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <desc>On leave in Tokyo, Radar is desperately needed back at the crisis-stricken 4077th, but his return is delayed by outside events. While casualties continue to pour in from the front, the 4077th's generator conks out, and the backup has been stolen.</desc>
+  </programme>
+  <programme channel="metv" start="20250923233000 +0000" stop="20250924000000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Good-bye Radar: Part 2</sub-title>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <desc>As company clerk Radar O'Reilly reluctantly prepares to depart the 4077th, the unit is still without electricity due to a broken generator, and the operating room continues to fill up with war wounded as night falls.</desc>
+  </programme>
+  <programme channel="metv" start="20250924000000 +0000" stop="20250924003000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Bargain Day</sub-title>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <desc>Aunt Bee, in a flurry of cost-cutting measures, saves money on beef by buying a whole side of it. Unfortunately, this happens at the same time her freezer breaks.</desc>
+  </programme>
+  <programme channel="metv" start="20250924003000 +0000" stop="20250924010000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Divorce, Mountain Style</sub-title>
+    <episode-num system="onscreen">S04E25</episode-num>
+    <desc>Andy finds himself embroiled in a strange backwoods divorce ritual, ending up as the object of Charlene Darling's affections.</desc>
+  </programme>
+  <programme channel="metv" start="20250924010000 +0000" stop="20250924013000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Clampetts Play Cupid</sub-title>
+    <episode-num system="onscreen">S06E17</episode-num>
+    <desc>Granny is hoping that Elly May and Dash Riprock will settle down and get married, since the two have been out on a lot of dates. Dash is hoping to get a more serious relationship with Elly as well, but her family keeps getting in the way. But Elly is not looking for a future with the Hollywood movie star; she’d rather have a farmer.</desc>
+  </programme>
+  <programme channel="metv" start="20250924013000 +0000" stop="20250924020000 +0000">
+    <title>Gomer Pyle, U.S.M.C.</title>
+    <sub-title>Gomer And The Beast</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Gomer tries cheering up a depressed waitress, only to discover that she is the girlfriend of a tough Marine sergeant.</desc>
+  </programme>
+  <programme channel="metv" start="20250924020000 +0000" stop="20250924023000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>The Flame Grows Higher</sub-title>
+    <episode-num system="onscreen">S01E31</episode-num>
+    <desc>When a POW is caught at the processing location after Stalag 13, Hogan suspects there is a traitor in the underground. Newkirk and LeBeau help him find out who it is.</desc>
+  </programme>
+  <programme channel="metv" start="20250924023000 +0000" stop="20250924030000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>Request Permission To Escape</sub-title>
+    <episode-num system="onscreen">S01E32</episode-num>
+    <desc>After receiving a "Dear John" letter, Carter asks Hogan if he can escape and get back to his girlfriend.</desc>
+  </programme>
+  <programme channel="metv" start="20250924030000 +0000" stop="20250924033000 +0000">
+    <title>The Carol Burnett Show</title>
+    <sub-title>Guests Nanette Fabray And Steve Lawrence</sub-title>
+    <desc>"Guests Nanette Fabray and Steve Lawrence. Originally aired on 09/28/70."</desc>
+  </programme>
+  <programme channel="metv" start="20250924033000 +0000" stop="20250924043500 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Nautical Knot</sub-title>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <desc>Mason is summoned when Harvey Scott's efforts to retain temporary control of the family mining company lead to murder.</desc>
+  </programme>
+  <programme channel="metv" start="20250924043500 +0000" stop="20250924050500 +0000">
+    <title>The Twilight Zone</title>
+    <sub-title>The Little People</sub-title>
+    <episode-num system="onscreen">S03E28</episode-num>
+    <desc>An astronaut declares himself a god when his ship lands on a planet populated by people smaller than ants.</desc>
+  </programme>
+  <programme channel="metv" start="20250924050500 +0000" stop="20250924053500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>Pen Pal</sub-title>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <desc>With the law one step ahead of him, runaway prisoner Rod Collins searches for the pen pal he plans to wed.</desc>
+  </programme>
+  <programme channel="metv" start="20250924053500 +0000" stop="20250924060500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>O, Youth And Beauty!</sub-title>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <desc>Cash Bentley frantically clings to his youth, even if it means proving he can do exhausting corporal calisthenics.</desc>
+  </programme>
+  <programme channel="metv" start="20250924060500 +0000" stop="20250924070500 +0000">
+    <title>Mannix</title>
+    <sub-title>Carol Lockwood, Past Tense</sub-title>
+    <episode-num system="onscreen">S06E21</episode-num>
+    <desc>Mannix seeks to prove that the death of one of his former gal-pals was not an accident.</desc>
+  </programme>
+  <programme channel="metv" start="20250924070500 +0000" stop="20250924080500 +0000">
+    <title>Cannon</title>
+    <sub-title>Lady On The Run</sub-title>
+    <desc>"After witnessing a murder, a woman flees to a sanitarium where she was once a patient. It's up to Cannon to find her and keep her safe."</desc>
+  </programme>
+  <programme channel="metv" start="20250924080500 +0000" stop="20250924090000 +0000">
+    <title>Barnaby Jones</title>
+    <sub-title>Homecoming For A Dead Man</sub-title>
+    <episode-num system="onscreen">S08E08</episode-num>
+    <desc>Barnaby finds a man who vanished ten years ago - along with a fortune in stolen gold.</desc>
+  </programme>
+  <programme channel="metv" start="20250924090000 +0000" stop="20250924093000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Trial Board</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>An officer accused of taking a bribe has chosen Sgt. Friday to represent him at his trial board hearing. Witnesses saw the officer accept the money, but he insists it was for the payback of a loan made years ago.</desc>
   </programme>
 </tv>
