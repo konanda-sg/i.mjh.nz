@@ -1579,6 +1579,14 @@
     </rating>
     <icon src="https://us1-prod-images.disco-api.com/2021/10/06/50b7d619-741d-3fe1-a97d-e15ccb662fa6.jpeg"/>
   </programme>
+  <programme channel="172" start="20250923040000 +0000" stop="20250923050000 +0000">
+    <title>Sin City Rehab</title>
+    <sub-title>Double Down</sub-title>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/12/2e85ebdc-97fc-32ee-bc12-a6d36f2cd1cf.jpeg"/>
+  </programme>
   <channel id="222">
     <display-name>Magnolia Network</display-name>
     <icon src="https://us1-prod-images.disco-api.com/2021/08/20/a24ef194-4de4-3cd4-a73c-79e19204788f.jpeg"/>
@@ -2200,36 +2208,36 @@
     <icon src="https://us1-prod-images.disco-api.com/2022/10/12/f082631f-4bc0-3eba-b999-22a68d342cb7.jpeg"/>
   </programme>
   <programme channel="222" start="20250920040000 +0000" stop="20250920050000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>Big Reward on a Tiny Cabin</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>A Home for Family on Matagorda Bay in Texas</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2025/06/26/25cb34c9-1da6-3613-999c-62fef21c12fc.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
   </programme>
   <programme channel="222" start="20250920050000 +0000" stop="20250920060000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>New Wife, New Cabin Life</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>Generations on Long Island</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/01/28/2641f2c4-4306-3aa6-9d49-ee5f196de832.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/08/13/9b7620b4-7bfd-3dd3-88fb-fd65caeab8f2.jpeg"/>
   </programme>
   <programme channel="222" start="20250920060000 +0000" stop="20250920070000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>Give a Dog a Camp</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>Renovation in South Florida</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/11/16/190a87bb-d3a1-39ca-be10-fc3686e76afa.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/07/28/44cd69d4-85bf-3010-aa46-28c0ac73afbf.jpeg"/>
   </programme>
   <programme channel="222" start="20250920070000 +0000" stop="20250920080000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>It Takes a Village of People</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>Narragansett Bay Renovation</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/01/28/a3ea4d0d-e3cd-3604-a328-0f8cc839bc1a.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2024/12/24/4923e170-47d4-3299-915f-1606ae293021.jpeg"/>
   </programme>
   <programme channel="222" start="20250920080000 +0000" stop="20250920090000 +0000">
     <title>Barnwood Builders</title>
@@ -2376,52 +2384,52 @@
     <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
   </programme>
   <programme channel="222" start="20250920230000 +0000" stop="20250921000000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>A Twofer in West Gardiner</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>A Serene Couples Retreat in Myrtle Beach, SC</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2023/12/20/1a0c08f6-8cbc-37e5-81c9-0d74b7ed49dc.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
   </programme>
   <programme channel="222" start="20250921000000 +0000" stop="20250921010000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>It Takes a Village of People</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>Narragansett Bay Renovation</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/01/28/a3ea4d0d-e3cd-3604-a328-0f8cc839bc1a.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2024/12/24/4923e170-47d4-3299-915f-1606ae293021.jpeg"/>
   </programme>
   <programme channel="222" start="20250921010000 +0000" stop="20250921020000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>Big Reward on a Tiny Cabin</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>A Home for Family on Matagorda Bay in Texas</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2025/06/26/25cb34c9-1da6-3613-999c-62fef21c12fc.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
   </programme>
   <programme channel="222" start="20250921020000 +0000" stop="20250921030000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>New Wife, New Cabin Life</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>Generations on Long Island</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/01/28/2641f2c4-4306-3aa6-9d49-ee5f196de832.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/08/13/9b7620b4-7bfd-3dd3-88fb-fd65caeab8f2.jpeg"/>
   </programme>
   <programme channel="222" start="20250921030000 +0000" stop="20250921040000 +0000">
-    <title>Maine Cabin Masters</title>
-    <sub-title>Give a Dog a Camp</sub-title>
+    <title>Beachfront Bargain Hunt Renovation</title>
+    <sub-title>Renovation in South Florida</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/11/16/190a87bb-d3a1-39ca-be10-fc3686e76afa.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/07/28/44cd69d4-85bf-3010-aa46-28c0ac73afbf.jpeg"/>
   </programme>
   <programme channel="222" start="20250921040000 +0000" stop="20250921050000 +0000">
     <title>Fixer Upper: Welcome Home</title>
-    <sub-title>Breaking New Ground</sub-title>
+    <sub-title>From Scrappy Barn to Modern Charm</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/07/14/f86227cb-e71a-31fb-b1bf-ad0b25749f10.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
   </programme>
   <programme channel="222" start="20250921050000 +0000" stop="20250921060000 +0000">
     <title>Fixer Upper</title>
@@ -2489,19 +2497,19 @@
   </programme>
   <programme channel="222" start="20250921130000 +0000" stop="20250921140000 +0000">
     <title>Maine Cabin Masters</title>
-    <sub-title>Ryan's Favorite Moments</sub-title>
+    <sub-title>The Russell Cabin's Big Lift</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/01/01/f1193957-387e-3a1f-9eaa-e6ffeedbeea3.jpeg"/>
   </programme>
   <programme channel="222" start="20250921140000 +0000" stop="20250921150000 +0000">
     <title>Maine Cabin Masters</title>
-    <sub-title>Chase's Favorite Memories</sub-title>
+    <sub-title>Architect Approved</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/02/1f5c354c-f980-3ede-9181-fb09a26ff2ea.jpeg"/>
   </programme>
   <programme channel="222" start="20250921150000 +0000" stop="20250921153000 +0000">
     <title>Magnolia Table: At The Farm</title>
@@ -2577,11 +2585,11 @@
   </programme>
   <programme channel="222" start="20250921230000 +0000" stop="20250922000000 +0000">
     <title>Fixer Upper</title>
-    <sub-title>Texan Family Returns to Roots</sub-title>
+    <sub-title>Extra Space for Blended Family</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/06/16/7453cf47-423b-326c-b95e-0a5127dcb6fd.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/06/16/9621a53b-7619-36f3-838b-874c1f08d8bb.jpeg"/>
   </programme>
   <programme channel="222" start="20250922000000 +0000" stop="20250922010000 +0000">
     <title>Fixer Upper</title>
@@ -2593,11 +2601,11 @@
   </programme>
   <programme channel="222" start="20250922010000 +0000" stop="20250922020000 +0000">
     <title>Fixer Upper: Welcome Home</title>
-    <sub-title>Breaking New Ground</sub-title>
+    <sub-title>From Scrappy Barn to Modern Charm</sub-title>
     <rating>
       <value>TV-G</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2022/07/14/f86227cb-e71a-31fb-b1bf-ad0b25749f10.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2022/01/11/06ed5199-eac9-3667-82fc-fe2e016a9429.jpeg"/>
   </programme>
   <programme channel="222" start="20250922020000 +0000" stop="20250922030000 +0000">
     <title>Fixer Upper</title>
@@ -3369,7 +3377,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2025/09/09/84dd447d-c2f3-3c7c-98d3-277edfe003ff.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/16/cb738c6a-5794-3322-87ae-2af90f96ad83.jpeg"/>
   </programme>
   <programme channel="162" start="20250919140000 +0000" stop="20250919150000 +0000">
     <title>Halloween Cookie Challenge</title>
@@ -3809,7 +3817,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2025/09/09/84dd447d-c2f3-3c7c-98d3-277edfe003ff.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/16/cb738c6a-5794-3322-87ae-2af90f96ad83.jpeg"/>
   </programme>
   <programme channel="162" start="20250921070000 +0000" stop="20250921080000 +0000">
     <title>Halloween Wars</title>
@@ -3993,7 +4001,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2025/09/09/84dd447d-c2f3-3c7c-98d3-277edfe003ff.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/16/cb738c6a-5794-3322-87ae-2af90f96ad83.jpeg"/>
   </programme>
   <programme channel="162" start="20250922040000 +0000" stop="20250922060000 +0000">
     <title>Halloween Baking Championship</title>
@@ -4001,7 +4009,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/06/31312804-acc6-3808-b05f-644a4bf619b1.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/17/55d32c12-0b3d-3ecb-b64c-dbc064f2227f.jpeg"/>
   </programme>
   <programme channel="162" start="20250922040000 +0000" stop="20250922060000 +0000">
     <title>Halloween Baking Championship</title>
@@ -4009,7 +4017,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/06/31312804-acc6-3808-b05f-644a4bf619b1.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/17/55d32c12-0b3d-3ecb-b64c-dbc064f2227f.jpeg"/>
   </programme>
   <programme channel="162" start="20250922060000 +0000" stop="20250922070000 +0000">
     <title>Kids Baking Championship</title>
@@ -4175,7 +4183,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/06/31312804-acc6-3808-b05f-644a4bf619b1.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/17/55d32c12-0b3d-3ecb-b64c-dbc064f2227f.jpeg"/>
   </programme>
   <programme channel="162" start="20250923030000 +0000" stop="20250923040000 +0000">
     <title>Kids Baking Championship</title>
@@ -5296,7 +5304,7 @@
   </programme>
   <programme channel="161" start="20250923000000 +0000" stop="20250923010100 +0000">
     <title>90 Day Fiance: The Other Way</title>
-    <sub-title>90 Day Fiance: The Other Way (Season 7)</sub-title>
+    <sub-title>Naya Safar</sub-title>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -5305,11 +5313,17 @@
   <programme channel="161" start="20250923010100 +0000" stop="20250923020300 +0000">
     <title>Seeking Sister Wife</title>
     <sub-title>You're No Longer in Brazil, Dorothy!</sub-title>
+    <rating>
+      <value>TV-14</value>
+    </rating>
     <icon src="https://us1-prod-images.disco-api.com/2021/09/29/9676503e-e364-3570-ad89-160a9460c9ad.jpeg"/>
   </programme>
   <programme channel="161" start="20250923020300 +0000" stop="20250923030300 +0000">
     <title>90 Day Fiance: The Other Way</title>
     <sub-title>90 Day Fiance: The Other Way (Season 7R) (Pillow Talk)</sub-title>
+    <rating>
+      <value>TV-14</value>
+    </rating>
     <icon src="https://us1-prod-images.disco-api.com/2021/09/29/9676503e-e364-3570-ad89-160a9460c9ad.jpeg"/>
   </programme>
   <programme channel="161" start="20250923030300 +0000" stop="20250923040000 +0000">
@@ -5322,7 +5336,7 @@
   </programme>
   <programme channel="161" start="20250923040000 +0000" stop="20250923050100 +0000">
     <title>90 Day Fiance: The Other Way</title>
-    <sub-title>90 Day Fiance: The Other Way (Season 7)</sub-title>
+    <sub-title>Naya Safar</sub-title>
     <rating>
       <value>TV-14</value>
     </rating>
@@ -10900,7 +10914,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/13/76846499-e32d-3d1b-b005-70c68d59ac81.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/16/d26ebb21-e9b3-33b0-81bc-1b04a85fa5af.jpeg"/>
   </programme>
   <programme channel="167" start="20250921020000 +0000" stop="20250921030000 +0000">
     <title>Dr. Jeff: Rocky Mountain Vet</title>
@@ -10932,7 +10946,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/13/76846499-e32d-3d1b-b005-70c68d59ac81.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/16/d26ebb21-e9b3-33b0-81bc-1b04a85fa5af.jpeg"/>
   </programme>
   <programme channel="167" start="20250921060000 +0000" stop="20250921070000 +0000">
     <title>Dr. Jeff: Rocky Mountain Vet</title>
@@ -12919,7 +12933,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/06/07a09520-25e7-39be-9a75-173dde0538c1.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/17/c65ec299-08d7-34c4-b931-b151717555a3.jpeg"/>
   </programme>
   <programme channel="166" start="20250918020000 +0000" stop="20250918030000 +0000">
     <title>Engineering Catastrophes</title>
@@ -12943,7 +12957,7 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-    <icon src="https://us1-prod-images.disco-api.com/2021/10/06/07a09520-25e7-39be-9a75-173dde0538c1.jpeg"/>
+    <icon src="https://us1-prod-images.disco-api.com/2025/09/17/c65ec299-08d7-34c4-b931-b151717555a3.jpeg"/>
   </programme>
   <programme channel="166" start="20250918050000 +0000" stop="20250918060000 +0000">
     <title>Engineering Catastrophes</title>
@@ -19041,6 +19055,22 @@
       <value>TV-PG</value>
     </rating>
     <icon src="https://us1-prod-images.disco-api.com/2020/05/11/94479f83-76a8-3020-bf2a-57e573cbe737.jpeg"/>
+  </programme>
+  <programme channel="170" start="20250923020100 +0000" stop="20250923030100 +0000">
+    <title>Iron Resurrection</title>
+    <sub-title>Barbecued Bird</sub-title>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://us1-prod-images.disco-api.com/2020/05/11/206f337d-87e0-366f-a89f-eaf85365388c.jpeg"/>
+  </programme>
+  <programme channel="170" start="20250923030100 +0000" stop="20250923040000 +0000">
+    <title>Iron Resurrection</title>
+    <sub-title>Hardcore Softail</sub-title>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <icon src="https://us1-prod-images.disco-api.com/2020/05/11/b267c301-f2c6-34a4-bac1-46dc715f2b7c.jpeg"/>
   </programme>
   <programme channel="170" start="20250923040000 +0000" stop="20250923050100 +0000">
     <title>Iron Resurrection</title>
