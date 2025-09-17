@@ -21,20 +21,6 @@
     <display-name>DW English</display-name>
     <icon src="https://www.dw.com/images/icons/favicon-540x540.png"/>
   </channel>
-  <programme start="20250917005030 +0000" stop="20250917013440 +0000" channel="mjh-redbull-tv">
-    <title lang="en">WSL Championship Tour 2025</title>
-    <sub-title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</sub-title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Find out here – watch highlights of finals day at MEO Rip Curl Pro Portugal, Europe’s only WSL Championship Tour event.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://resources.redbull.tv/rrn:content:videos:a5a65916-53f7-4a03-b67e-89bc04cdc074/rbtv_display_art_portrait"/>
-    <url>https://www.redbull.com/int-en/videos/wsl-championship-tour-2025-meo-rip-curl-pro-portugal-wrap-show</url>
-    <episode-num system="redbull.com">episode/rrn:content:videos:a5a65916-53f7-4a03-b67e-89bc04cdc074</episode-num>
-    <episode-num system="original-air-date">2025-04-02 03:53:10</episode-num>
-    <rating system="Red Bull TV">
-      <value>NR</value>
-    </rating>
-    <series-desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </series-desc>
-  </programme>
   <programme start="20250917013440 +0000" stop="20250917021850 +0000" channel="mjh-redbull-tv">
     <title lang="en">WSL Championship Tour 2025</title>
     <sub-title lang="en">WSL Abu Dhabi Pro wrap show</sub-title>
@@ -308,33 +294,6 @@
       <value>NR</value>
     </rating>
     <series-desc lang="en">Watch the Top 16 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</series-desc>
-  </programme>
-  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="mjh-al-jazeera">
-    <title>Germany's Israel Obsession</title>
-    <sub-title>Germany's Israel Obsession</sub-title>
-    <desc>The fight against anti-Semitism in Germany is empowering those with the closest ties to its fascist past.</desc>
-    <date>2025</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/germanys-israel-obsession.png"/>
-    <episode-num system="dd_progid">56241659</episode-num>
-    <episode-num system="freeviewnz.tv">episode/abe68502-0183-4cfe-b0d6-d239b9e247d3</episode-num>
-    <episode-num system="original-air-date">2025-09-12 00:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
   </programme>
   <programme start="20250917020000 +0000" stop="20250917023000 +0000" channel="mjh-al-jazeera">
     <title>News Live</title>
@@ -10955,12 +10914,6 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     </star-rating>
     <series-desc/>
   </programme>
-  <programme channel="mjh-channel-news-asia" start="20250916230000 +0000" stop="20250917020000 +0000">
-    <title>Asia First</title>
-    <desc>Top stories, market updates, and business intel from across the region to prepare Asia for the day ahead.</desc>
-    <icon src="https://vmndims.flashnews.com.au/api/v2/img/614327d8e4b06f6128e158b6-1631791085698?location=tile&amp;imwidth=400"/>
-    <category>Current Affairs</category>
-  </programme>
   <programme channel="mjh-channel-news-asia" start="20250917020000 +0000" stop="20250917030000 +0000">
     <title>Debt Bomb</title>
     <desc>An examination of the impact of debt on countries, with the IMF declaring that 60 percent of low-income countries are either at high risk of debt distress or already in debt</desc>
@@ -11020,29 +10973,17 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://vmndims.flashnews.com.au/api/v2/img/6147d2f4e4b0bbed8e932737-1632097030074?location=tile&amp;imwidth=400"/>
     <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250917010000 +0000" stop="20250917013000 +0000">
-    <title>Newsday</title>
-    <desc>International news from London and Singapore.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338453_2_20240215T220856973Z_18.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250917130000 +0000" stop="20250917133000 +0000">
+    <title>Slumfood Millionaire</title>
+    <desc>A journey through the slums of Asia to experience the dishes made by talented cooks throughout Manila, Bangkok, Mumbai, Jakarta, Phnom Penh, and Kota Kinabalu.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/61c2b81ee4b067f9619bee19-1640211730832?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
-  <programme channel="mjh-bbc-news" start="20250917013000 +0000" stop="20250917014500 +0000">
-    <title>Business Today</title>
-    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="mjh-bbc-news" start="20250917014500 +0000" stop="20250917020000 +0000">
-    <title>BBC Sport</title>
-    <desc>Coverage, commentary highlights and more from the world's biggest sporting events.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1795488270_0_20250804T124638842Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-k8bdp.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="mjh-channel-news-asia" start="20250917133000 +0000" stop="20250917140000 +0000">
+    <title>CNA Correspondent</title>
+    <desc>CNA correspondents from Asia and Europe examine different current affairs, offering their take and updates from across the globe.</desc>
+    <icon src="https://vmndims.flashnews.com.au/api/v2/img/6152abdee4b0bbed8e932d39-1632807918821?location=tile&amp;imwidth=400"/>
+    <category>Current Affairs</category>
   </programme>
   <programme channel="mjh-bbc-news" start="20250917020000 +0000" stop="20250917023000 +0000">
     <title>Newsday</title>
@@ -11140,22 +11081,29 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250917010000 +0000" stop="20250917011500 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917063000 +0000" stop="20250917065500 +0000">
+    <title>Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541203139_2_20240430T123702997Z_1.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250917011500 +0000" stop="20250917020000 +0000">
-    <title>DocFilm</title>
-    <desc>A unique look at today's world, featuring exclusive reports on current events and in-depth stories about what moves and inspires people around the globe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886785_0_20241126T122304995Z_39_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917065500 +0000" stop="20250917070000 +0000">
+    <title>Tech Now</title>
+    <desc>Alasdair Keane visits Schiphol Airport to see how self-driving vehicles are being trialled to help with airport logistics  the musicians using AI code during live performances.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1047323445_0_20250324T072542905Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
-  <programme channel="mjh-dw-news" start="20250917020000 +0000" stop="20250917020200 +0000">
-    <title>DW</title>
-    <sub-title>News</sub-title>
-    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  <programme channel="mjh-bbc-news" start="20250917070000 +0000" stop="20250917073000 +0000">
+    <title>BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538338451_1_20240215T220846703Z_55.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="mjh-dw-news" start="20250917020200 +0000" stop="20250917023000 +0000">
     <title>The Day</title>
@@ -11211,6 +11159,22 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886963_0_20241126T122257007Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
   </programme>
   <programme channel="mjh-dw-news" start="20250917060000 +0000" stop="20250917061500 +0000">
+    <title>DW</title>
+    <sub-title>News</sub-title>
+    <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491113298_1_20240502T102114694Z_100.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917061500 +0000" stop="20250917063000 +0000">
+    <title>Business Beyond</title>
+    <desc>DW Online formats from the fields of politics and society find their way onto TV as part of "Best of DW-online Content".</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_564930907_0_20250109T021603081Z_73_imageprocessorclient-tvplus-linear-7cd5d896cc-sbnsg.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917063000 +0000" stop="20250917070000 +0000">
+    <title>In Good Shape</title>
+    <desc>Fitness, nutrition, medicine: The DW health show offers science-based tips for an active and healthy lifestyle.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_512886902_0_20241126T122304737Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg"/>
+  </programme>
+  <programme channel="mjh-dw-news" start="20250917070000 +0000" stop="20250917073000 +0000">
     <title>DW</title>
     <sub-title>News</sub-title>
     <desc>Detailed explanations, expert analysis, full coverage from the worlds of politics, business, sports and culture. Stories you won't see elsewhere. Fascinating insights beyond the headlines.</desc>
